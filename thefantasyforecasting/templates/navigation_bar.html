@@ -1,0 +1,62 @@
+<nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
+    <div class="container"> <!-- Allows the contents to not be stuck to the sides -->
+        <a href="#" class="navbar-brand">The Fantasy Forecasting</a>
+
+        <!-- Button is only shown when screen is small -->
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Main navbar content -->
+        <div class="collapse navbar-collapse" id="navbarMenu">
+            <ul class="navbar-nav ml-auto">
+                {% if current_user.is_authenticated %}
+                    <li class="nav-item">
+                        <a href="{{ url_for('main.home') }}" class="nav-link">My Hub</a>
+                    </li>
+                {% endif %}
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" role="button" data-toggle="dropdown">Challenge</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="{{ url_for('challenge.forecast_new') }}">Submit</a>
+                        <a class="dropdown-item" href="{{ url_for('challenge.history') }}">History</a>
+                        <a class="dropdown-item" href="{{ url_for('challenge.leaderboard') }}">Leaderboard</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" role="button" data-toggle="dropdown">Bulletin</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="{{ url_for('bulletin.announcements') }}">Announcements</a>
+                        <a class="dropdown-item" href="{{ url_for('bulletin.polls') }}">Polls</a>
+                        <a class="dropdown-item" href="{{ url_for('bulletin.trophies') }}">Trophies</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link" href="#" role="button" data-toggle="dropdown">Info</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="{{ url_for('extra.rules') }}">Rules</a>
+                        <a class="dropdown-item" href="{{ url_for('extra.scoring') }}">Scoring</a>
+                        <a class="dropdown-item" href="{{ url_for('extra.faq') }}">FAQ</a>
+                        <a class="dropdown-item" href="{{ url_for('extra.about') }}">About</a>
+                    </div>
+                </li>
+                <!-- Only show the 'Account' option iff user is logged in -->
+                {% if current_user.is_authenticated %}
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="#" role="button" data-toggle="dropdown">Account</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="{{ url_for('account.messages') }}">Messages</a>
+                            <a class="dropdown-item" href="{{ url_for('account.achievements') }}">Achievements</a>
+                            <a class="dropdown-item" href="{{ url_for('account.settings') }}">Settings</a>
+                            <a class="dropdown-item" href="{{ url_for('account.logout') }}">Logout</a>
+                        </div>
+                    </li>
+                {% else %}
+                    <li class="nav-item">
+                        <a href="{{ url_for('account.login') }}" class="nav-link">Login</a>
+                    </li>
+                {% endif %}
+            </ul>
+        </div>
+    </div>
+</nav>
