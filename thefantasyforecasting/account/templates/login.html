@@ -1,5 +1,47 @@
 {% extends "layout.html" %}
 
+{% block styles %}
+    <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='forms.css') }}"
+    type="text/css"
+    />
+{% endblock %}
+
+
 {% block content %}
-    <p>Paragraph text for {{ title }}</p>
+
+<div class="form-wrapper">
+
+    <form method="POST" action="{{ url_for('account.login') }}">
+        {{ form.csrf_token }}
+
+        <fieldset class="form-field">{{ form.email.label }}{{ form.email }}
+            {% if form.email.errors %}
+                <ul class="errors">
+                {% for error in form.username.errors %}
+                    <li class="error">
+                        <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
+                    </li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        </fieldset>
+
+        <fieldset class="form-field">{{ form.password.label }}{{ form.password }}
+            {% if form.password.errors %}
+                <ul class="errors">
+                {% for error in form.firstname.errors %}
+                    <li class="error">
+                        <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
+                    </li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        </fieldset>
+
+        {{ form.submit }}
+
+    </form>
+</div>
 {% endblock content %}

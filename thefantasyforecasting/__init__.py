@@ -1,6 +1,7 @@
 from flask import Flask
 from flask_bcrypt import Bcrypt
 from flask_login import LoginManager
+from flask_sqlalchemy import SQLAlchemy
 from flask_mail import Mail
 from thefantasyforecasting.config import Config
 
@@ -12,6 +13,8 @@ login_manager.login_message = 'info'
 
 mail = Mail()
 
+db = SQLAlchemy()
+
 
 def create_app(config_class=Config):
     app = Flask(__name__)
@@ -20,6 +23,7 @@ def create_app(config_class=Config):
     bcrypt.init_app(app)
     login_manager.init_app(app)
     mail.init_app(app)
+    db.init_app(app)
 
     from thefantasyforecasting.account.routes import account
     from thefantasyforecasting.bulletin.routes import bulletin
