@@ -1,8 +1,6 @@
-# coding: utf-8
-from sqlalchemy import Column, DateTime, ForeignKey, Integer, MetaData, Numeric, String
+from sqlalchemy import Column, DateTime, ForeignKey, Integer, Numeric, String
 from sqlalchemy.orm import relationship
 from sqlalchemy.schema import FetchedValue
-from sqlalchemy.ext.declarative import declarative_base
 from flask_login import UserMixin
 from thefantasyforecasting import db, login_manager
 
@@ -34,9 +32,10 @@ class ForecastPeriod(db.Model):
     __tablename__ = 'forecast_period'
 
     id_forecast_period = Column(Integer, primary_key=True, unique=True)
-    location = Column(String(45, 'utf8_bin'), nullable=False)
-    icao = Column(String(45, 'utf8_bin'), nullable=False)
+    location = Column(ForeignKey('location.id_location'), nullable=False, index=True)
     effective = Column(String(45, 'utf8_bin'), nullable=False, unique=True)
+
+    location1 = relationship('Location', primaryjoin='ForecastPeriod.location == Location.id_location', backref='forecast_periods')
 
 
 class Post(db.Model):
@@ -74,3 +73,13 @@ class User(db.Model, UserMixin):
 
     def get_id(self):
         return self.id_user
+
+
+class Location(db.Model):
+    __tablename__ = 'location'
+
+    id_location = Column(Integer, primary_key=True, unique=True)
+    icao = Column(String(45, 'utf8_bin'), nullable=False, unique=True)
+    city = Column(String(45, 'utf8_bin'), nullable=False)
+    state = Column(String(45, 'utf8_bin'), nullable=False)
+    country = Column(String(45, 'utf8_bin'), nullable=False)

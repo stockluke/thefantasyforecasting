@@ -1,0 +1,2920 @@
+AK,Adak Nas,PADK
+AK,Akhiok,PAKH
+AK,Akutan,PAUT
+AK,Ambler,PAFM
+AK,Anaktuvuk Pass,PAKP
+AK,Anchorage Intl,PANC
+AK,Anchorage/Lake H,PALH
+AK,Anchorage/Merril,PAMR
+AK,Angoon Seaplane,PAGN
+AK,Aniak,PANI
+AK,Annette Island,PANT
+AK,Anvik,PANV
+AK,Arctic Village,PARC
+AK,Atka,PAAK
+AK,Atqasuk Burnell,PATQ
+AK,Barter Island,PABA
+AK,Bethel,PABE
+AK,Bettles,PABT
+AK,Big River Lakes,PALV
+AK,Birchwood,PABV
+AK,Brevig Mission,PFKT
+AK,Bryant Army Af,PAFR
+AK,Buckland,PABL
+AK,Cantwell,PATW
+AK,Cape Lisburne,PALU
+AK,Cape Newenham,PAEH
+AK,Cape Romanzof,PACZ
+AK,Central,PACE
+AK,Central,PARL
+AK,Chandalar Lake,PALR
+AK,Chevak,PAVA
+AK,Chignik Bay,PAJC
+AK,Chulitna,PAEC
+AK,Circle/Pafc Rfc,PACR
+AK,Clarks Point,PFCL
+AK,Cold Bay,PACD
+AK,Cordova,PACV
+AK,Deadhorse,PASC
+AK,Deering,PADE
+AK,Delta Junction,PABI
+AK,Dillingham,PADL
+AK,Dutch Harbor,PADU
+AK,Eagle,PAEG
+AK,Eareckson/Shemya,PASY
+AK,Egegik,PAII
+AK,Eielson Afb,PAEI
+AK,Elfin Cove,PAEL
+AK,Elim Aprt,PFEL
+AK,Elmendorf Afb,PAED
+AK,Emmonak,PAEM
+AK,Eureka,PAZK
+AK,Fairbanks,PAFA
+AK,False Pass,PAKF
+AK,Farewell Lake,PAFK
+AK,Fort Wainwright,PAFB
+AK,Fort Yukon,PFYU
+AK,Funter Bay,PAFN
+AK,Galbraith Lake,PAGB
+AK,Galena,PAGA
+AK,Gambell,PAGM
+AK,Golovin,PAGL
+AK,Gulkana,PAGK
+AK,Gustavus,PAGS
+AK,Haines,PAHN
+AK,Hayes River,PAHZ
+AK,Healy,PAHV
+AK,Holy Cross,PAHC
+AK,Homer,PAHO
+AK,Hoonah,PAOH
+AK,Hooper Bay,PAHP
+AK,Huslia,PAHL
+AK,Huslia,PAHS
+AK,Hydaburg,PAHY
+AK,Igiugig,PAIG
+AK,Iliamna,PAIL
+AK,Indian Mountain,PAIM
+AK,Juneau,PAJN
+AK,Kake,PAFE
+AK,Kalskag,PALG
+AK,Kaltag,PAKV
+AK,Kenai,PAEN
+AK,Ketchikan,PAKT
+AK,Kiana,PAIK
+AK,King Cove,PAVC
+AK,King Salmon,PAKN
+AK,Kipnuk,PAKI
+AK,Kivalina,PAVL
+AK,Klawock,PAKW
+AK,Kodiak,PADQ
+AK,Koliganek,PAJZ
+AK,Kotzebue,PAOT
+AK,Koyuk,PAKK
+AK,Kuparuk,PAKU
+AK,Kwethluk,PFKW
+AK,Manley Hot Sprin,PAML
+AK,Manokotak,PAMB
+AK,Marshall,PADM
+AK,Mccarthy,PAMX
+AK,Mcgrath,PAMC
+AK,Mckinley Park,PAIN
+AK,Mekoryuk,PAMY
+AK,Metlakatla,PAMM
+AK,Middleton Island,PAMD
+AK,Minchumina,PAMH
+AK,Mountain Village,PAMO
+AK,Nabesna,PABN
+AK,Napakiak,PANA
+AK,Nelson Lagoon,PAOU
+AK,Nenana,PANN
+AK,New Stuyahok,PANW
+AK,Nikolai,PAFS
+AK,Noatak,PAWN
+AK,Nome,PAOM
+AK,Noorvik,PFNO
+AK,Northway,PAOR
+AK,Nuiqsut,PAQT
+AK,Nuiqsut,PPNU
+AK,Nuiqsut Village,PALP
+AK,Nunapitchuk,PPIT
+AK,Oliktok Point,POLI
+AK,Oooguruk Island,PFNU
+AK,Palmer,PAAQ
+AK,Paxson,PAXK
+AK,Petersburg,PAPG
+AK,Pilot Point,PAPN
+AK,Platinum,PAPM
+AK,Point Hope,PAPO
+AK,Point Lay,PPIZ
+AK,Point Thompson,PAAD
+AK,Port Alexander,PAAP
+AK,Port Alsworth,PALJ
+AK,Port Clarence,PAPC
+AK,Port Heiden,PAPH
+AK,Portage Glacier,PATO
+AK,Prospect Creek,PAPR
+AK,Prudhoe Bay,PAUD
+AK,Puntilla Lake,PAPT
+AK,Quinhagak,PAQH
+AK,Reg Dog,PADG
+AK,Reg Dog,PARD
+AK,Ruby,PARY
+AK,Russian Mission,PARS
+AK,Saint Marys,PASM
+AK,Sand Point,PASD
+AK,Savoonga,PASA
+AK,Scammon Bay,PACM
+AK,Selawik,PASK
+AK,Seldovia,PASO
+AK,Seward,PAWD
+AK,Shageluk,PAHX
+AK,Shaktoolik,PFSH
+AK,Shishmaref,PASH
+AK,Shungnak,PAGH
+AK,Sitka,PASI
+AK,Skagway,PAGY
+AK,Skwentna,PASW
+AK,Slana,PADT
+AK,Sleetmute,PASL
+AK,Snowshoe Lake,PALK
+AK,Soldotna,PASX
+AK,South Naknek,PFWS
+AK,Sparrevohn,PASV
+AK,St George,PAPB
+AK,St Michael,PAMK
+AK,St Paul Island,PASN
+AK,Stony River Land,PAER
+AK,Sutton,PAJV
+AK,Tahnetna Pass Lo,PASP
+AK,Talkeetna,PATK
+AK,Tanana,PATA
+AK,Tatalina Afs,PATL
+AK,Teller,PATE
+AK,Tin City Afs,PATC
+AK,Togiak,PATG
+AK,Toksook Bay,PAOO
+AK,Umiat,PAUM
+AK,Unalakleet,PAUN
+AK,Utqiagvik,PABR
+AK,Valdez,PAVD
+AK,Valdez Wso,PAVW
+AK,Wainwright,PAWI
+AK,Wales,PAIW
+AK,Wasilla,PAWS
+AK,White Mountain,PAWM
+AK,Whittier,PAWR
+AK,Willow,PAUO
+AK,Wolverine Road,PAIZ
+AK,Wrangell,PAWG
+AK,Yakutat,PAYA
+AL,Alabaster,KEET
+AL,Albertville Muni,K8A0
+AL,Alexander/Russel,KALX
+AL,Andalusia/Opp Ar,K79J
+AL,Anniston,KANB
+AL,Auburn Opelika A,KAUO
+AL,Auburn Univ. (Am,KAUB
+AL,Bessemer,KEKY
+AL,Birmingham,KBHM
+AL,Centreville Wsm,K0A8
+AL,Courtland,K9A4
+AL,Cullman/Folsom F,K3A1
+AL,Cullman/Folsom F,KCMD
+AL,Decatur,KDCU
+AL,Demopolis,KDYA
+AL,Dothan,KDHN
+AL,Enterprise,KEDN
+AL,Eufaula,KEUF
+AL,Evergreen,KGZH
+AL,Fairhope,KCQF
+AL,Florala Muni,K0J4
+AL,Ft Payne/Isbell,K4A9
+AL,Ft Rucker/Hanche,KHEY
+AL,Ft Rucker/Shell,KSXS
+AL,Gadsden Muni,KGAD
+AL,Greenville,KPRN
+AL,Gulf Shores,KJKA
+AL,Haleyville,K1M4
+AL,Huntsville,KHSV
+AL,Huntsville/Madis,KMDQ
+AL,Jasper/Walker,KJFX
+AL,Lowe Ahp/Ft. Ruc,KLOR
+AL,Marion,KA08
+AL,Maxwell Afb/Mgm,KMXF
+AL,Mobile/Bates,KMOB
+AL,Mobile/Brookley,KBFM
+AL,Montgomery,KMGM
+AL,Muscle Shoal,KMSL
+AL,Ozark/Cairns Aaf,KOZR
+AL,Pell City,KPLR
+AL,Phi Oil Plat,KRAM
+AL,Prattville,K1A9
+AL,Redstone Arsenal,KHUA
+AL,Scottsboro,K4A6
+AL,Selma/Craig Fld,KSEM
+AL,Sylacauga,KSCD
+AL,Talladega,KASN
+AL,Troy,KTOI
+AL,Tuscaloosa,KTCL
+AL,Viosca Knoll768,KVOA
+AR,Arkadelphia,KADF
+AR,Batesville,KBVX
+AR,Benton,KSUZ
+AR,Bentonville,KH00
+AR,Bentonville,KVBT
+AR,Bentonville (Nw),KXNA
+AR,Blytheville,KBYH
+AR,Blytheville,KHKA
+AR,Camden,KCDH
+AR,Cantrell,KCXW
+AR,Clinton Muni,KCCA
+AR,Coldwater,K3K8
+AR,Corning,K4M9
+AR,De Queen,KDEQ
+AR,El Dorado,KELD
+AR,Fayetteville,KFYV
+AR,Flippin (Awos),KFLP
+AR,Fort Smith,KFSM
+AR,Harrison,KHRO
+AR,Hot Springs,KHOT
+AR,Jonesboro,KJBR
+AR,Little Rock,KLIT
+AR,Little Rock Afb,KLRF
+AR,Mena Intermtn,KMEZ
+AR,Monticello,KLLQ
+AR,Mount Ida,KMWT
+AR,Mountain Home,KBPK
+AR,N Little Rock,KORK
+AR,N. Little Rock,KLZK
+AR,Newport,KM19
+AR,Pine Bluff/Gridr,KPBF
+AR,Rogers,KROG
+AR,Russellville,KRUE
+AR,Searcy,KSRC
+AR,Siloam Spring,KSLG
+AR,Springdale Muni,KASG
+AR,Stuttgart,KSGT
+AR,Texarkana,KTXK
+AR,W Memphis Muni,KAWM
+AR,Walnut Ridge,KARG
+AZ,Ak-Chin,KA39
+AZ,Buckeye,KBXK
+AZ,Bullhead City,KIFP
+AZ,Casa Granda,KCGZ
+AZ,Chandler,KCHD
+AZ,Chandler/Mesa,KIWA
+AZ,Colorado City,KAZC
+AZ,Coolidge Muni,KP08
+AZ,Davis/Tucson,KDMA
+AZ,Douglas Bisbee,KDUG
+AZ,Flagstaff,KFLG
+AZ,Fort Huachuca,KFHU
+AZ,Gila Bend (Aaf),KGXF
+AZ,Glendale,KGEU
+AZ,Goodyear Municip,KGYR
+AZ,Grand Canyon,KGCN
+AZ,Grand Canyon/Val,K40G
+AZ,Kingman,KIGM
+AZ,Laguna (Aaf),KLGF
+AZ,Lake Havasu City,KHII
+AZ,Luke Afb/Glendal,KLUF
+AZ,Mesa/Falcon Fld,KFFZ
+AZ,Nogales,KOLS
+AZ,Page,KPGA
+AZ,Payson,KPAN
+AZ,Phoenix/Deer Vly,KDVT
+AZ,Phoenix/Sky Hrbr,KPHX
+AZ,Pioneer Airfield,KALK
+AZ,Prescott,KPRC
+AZ,Safford,KSAD
+AZ,Scottsdale,KSDL
+AZ,Sedona,KSEZ
+AZ,Show Low Municip,KSOW
+AZ,Springerville,KJTC
+AZ,St. Johns,KSJN
+AZ,Taylor,KTYL
+AZ,Tucson,KTUS
+AZ,Tucson/Marana,KAVQ
+AZ,Tucson/Ryan Fld,KRYN
+AZ,Williams Clark,KCMR
+AZ,Window Rock,KRQE
+AZ,Winslow,KINW
+AZ,Yuma Aux,KNOZ
+AZ,Yuma Intl,KYUM
+AZ,Yuma Mcas,KNYL
+CA,Alameda Nas,KNGZ
+CA,Alturas,KAAT
+CA,Apple Valley,KAPV
+CA,Arcata/Eureka,KACV
+CA,Auburn Muni,KAUN
+CA,Avalon,KAVX
+CA,Bakersfield,KBFL
+CA,Beale Afb/Marysv,KBAB
+CA,Beaumont,KBUO
+CA,Bicycle Lake,KBYS
+CA,Big Bear City,KL35
+CA,Bishop,KBIH
+CA,Blythe,KBLH
+CA,Borrego Springs,KL08
+CA,Bridgeport,KO57
+CA,Bridgeport(Mcmwt,KBAN
+CA,Burbank,KBUR
+CA,Burney,KBNY
+CA,Byron,KC83
+CA,Calexico Intl,KCXL
+CA,Camarillo,KCMA
+CA,Camp Pendleton,KNFG
+CA,Campo,KCZZ
+CA,Carlsbad,KCRQ
+CA,Cedarville,KO59
+CA,Chico Municipal,KCIC
+CA,China Lake (Naf),KNID
+CA,Chino,KCNO
+CA,Columbia,KO22
+CA,Concord,KCCR
+CA,Corona Muni,KAJO
+CA,Costa Mesa,KSNA
+CA,Crescent City,KCEC
+CA,Daggett,KDAG
+CA,Davis,KEDU
+CA,Davis Yolo Cnty,KDWA
+CA,Delano,KDLO
+CA,Edwards Afb,KEDW
+CA,Edwards N-Aux,K9L2
+CA,El Centro Naf,KNJK
+CA,El Monte,KEMT
+CA,Emigrant Gap,KBLU
+CA,Eureka/Murray,KEKA
+CA,Fallbrook Airpar,KL18
+CA,Fortuna,KFOT
+CA,Fresno,KFAT
+CA,Fresno Chandler,KFCH
+CA,Fullerton,KFUL
+CA,Grass Valley,KGOO
+CA,Half Moon Bay,KHAF
+CA,Hanford,KHJO
+CA,Hanford,KO18
+CA,Hawthorne,KHHR
+CA,Hayward,KHWD
+CA,Healdsburg,KHES
+CA,Hemet,KHMT
+CA,Hollister Muni,KCVH
+CA,Hunter Ligget,KHGT
+CA,Imperial,KIPL
+CA,Imperial Beach,KNRS
+CA,Inyokern,KIYK
+CA,Jackson,KJAQ
+CA,La / Whiteman,KWHP
+CA,La Verne/Bracket,KPOC
+CA,Lancaster/Fox,KWJF
+CA,Lemoore Nas/Reev,KNLC
+CA,Lincoln,KLHM
+CA,Little River,KLLR
+CA,Livermore,KLVK
+CA,Lompoc,KLPC
+CA,Long Beach,KLGB
+CA,Los Alamitos Aaf,KSLI
+CA,Los Angeles,KCQT
+CA,Los Angeles,KLAX
+CA,Madera,KMAE
+CA,Mammoth/June Lak,KMMH
+CA,Marysville,KMYV
+CA,Mather Field,KMHR
+CA,Mcclellan Afb,KMCC
+CA,Merced,KMCE
+CA,Merced/Castle Af,KMER
+CA,Miramar Nas/San,KNKX
+CA,Modesto,KMOD
+CA,Moffett Nas/Mtn,KNUQ
+CA,Mojave,KMHV
+CA,Montague/Siskiyo,KSIY
+CA,Monterey,KMRY
+CA,Mount Shasta,KMHS
+CA,Mount Wilson,KMWS
+CA,Murrieta/Temecul,KF70
+CA,Napa,KAPC
+CA,Needles,KEED
+CA,Newhall,K3A6
+CA,North Island Nas,KNZY
+CA,Novato/Gnoss Fld,KDVO
+CA,Oakland,KOAK
+CA,Oceano Cnty,KL52
+CA,Oceanside,KOKB
+CA,Oceanside/Red-B,KNXF
+CA,Ontario,KONT
+CA,Oroville,KOVE
+CA,Oxnard,KOXR
+CA,Palm Springs,KPSP
+CA,Palmdale,KGXA
+CA,Palmdale,KPMD
+CA,Palo Alto,KPAO
+CA,Paso Robles,KPRB
+CA,Petaluma,KO69
+CA,Placerville,KPVF
+CA,Point Mugu Nas,KNTD
+CA,Porterville,KPTV
+CA,Pt. Piedras Blan,K87Q
+CA,Ramona,KRNM
+CA,Red Bluff,KRBL
+CA,Redding,KRDD
+CA,Redlands,KREI
+CA,Reedley,KO32
+CA,Rio Vista,KO88
+CA,Riverside,KRAL
+CA,Riverside/March,KRIV
+CA,Sacramento,KSAC
+CA,Sacramento/Metro,KSMF
+CA,Salinas,KSNS
+CA,San Andreas,KCPU
+CA,San Bernardino,KSBD
+CA,San Carlos Airpo,KSQL
+CA,San Clemente Is.,KNUC
+CA,San Diego,KSAN
+CA,San Diego/Brown,KSDM
+CA,San Diego/Mntgmy,KMYF
+CA,San Diego/Santee,KSEE
+CA,San Francisco,KSFO
+CA,San Jose,KSJC
+CA,San Jose/Reid,KRHV
+CA,San Luis Obispo,KSBP
+CA,San Martin,KE16
+CA,San Nicolas Isla,KNSI
+CA,Sandberg,KSDB
+CA,Santa Barbara,KSBA
+CA,Santa Maria,KSMX
+CA,Santa Monica,KSMO
+CA,Santa Rosa,KSTS
+CA,Santa Ynez,KIZA
+CA,Shelter Cove,KO87
+CA,South Lake Tahoe,KTVL
+CA,Stockton,KSCK
+CA,Susanville Muni,KSVE
+CA,Tehachapi,KTSP
+CA,Thermal/Palm Spg,KTRM
+CA,Torrance Municip,KTOA
+CA,Tracy,KTCY
+CA,Travis Afb/Fairf,KSUU
+CA,Trinity Center,KO86
+CA,Truckee Tahoe,KTRK
+CA,Twentynine Palms,KNXP
+CA,Ukiah,KUKI
+CA,Upland,KCCB
+CA,Vacaville,KVCB
+CA,Van Nuys,KVNY
+CA,Vandenberg Afb,KVBG
+CA,Vandenberg Range,KXVW
+CA,Victorville,KVCV
+CA,Visalia Muni,KVIS
+CA,Watsonville,KWVI
+CA,Weaverville,KO54
+CO,Akron,KAKO
+CO,Alamosa,KALS
+CO,Aspen,KASE
+CO,Bald Mountain,K7BM
+CO,Berthoud Pass,K0CO
+CO,Boulder Muni,KBDU
+CO,Broomfield/Jeffc,KBJC
+CO,Buckley Angb/Den,KBKF
+CO,Buena Vista,KAEJ
+CO,Burlington,KITR
+CO,Canon City,K1V6
+CO,Cheyenne Mountai,KCWN
+CO,Co Spngs Meadow,KFLY
+CO,Colorado Springs,KCOS
+CO,Corona Pass,KCRV
+CO,Cortez,KCEZ
+CO,Craig,KCAG
+CO,Dakota Hill,KC99
+CO,Del Norte,KRCV
+CO,Delta/Blake Fld,KAJZ
+CO,Denver (Dia),KDEN
+CO,Denver Air Space,KCFO
+CO,Denver F. Range,KFTG
+CO,Denver/Arapahoe,KAPA
+CO,Durango,KDRO
+CO,Eagle Co. Region,KEGE
+CO,Ellicott-B Afa,KABH
+CO,Erie Muni,KEIK
+CO,Flagler,KFLA
+CO,Fort Carson,KFCS
+CO,Fort Morgan,KFMM
+CO,Ft Collins/Lovel,KFNL
+CO,Granby/Grand Co,KGNB
+CO,Grand Junction,KGJT
+CO,Greeley/Weld,KGXY
+CO,Gunnison,KGUC
+CO,Hayden/Yampa,KHDN
+CO,Holyoke,KHEQ
+CO,Juliet Madis,K1JW
+CO,Kirk,K72C
+CO,Kremmling Awos,K20V
+CO,La Junta,KLHX
+CO,La Veta Pass,KVTP
+CO,Lamar,KLAA
+CO,Leadville,KLXV
+CO,Lima Madis,K1LW
+CO,Limon,KLIC
+CO,Longmont/Vbrand,KLMO
+CO,Meeker,KEEO
+CO,Mike Madis,K1MW
+CO,Monarch Pass,KMYP
+CO,Montrose,KMTJ
+CO,Monument/Elbert,KMNH
+CO,Mt Werner Sbs,K3MW
+CO,November Madis,K1NW
+CO,Nucla/Hopkins F,KAIB
+CO,Oscar Madis,K1OW
+CO,Pagosa Springs,KPSO
+CO,Pueblo,KPUB
+CO,Rangely,K4V0
+CO,Red Cliff Pass,KCCU
+CO,Rifle,KRIL
+CO,Saguache Muni,K04V
+CO,Salida,KANK
+CO,Schriever Afb,KSHM
+CO,Springfield,KSPD
+CO,Steamboat Spring,KSBS
+CO,Sterling,KSTK
+CO,Stratton,KSTR
+CO,Sunlight,K5SM
+CO,Telluride Region,KTEX
+CO,Trinidad/Animas,KTAD
+CO,Usaf Academy/Cos,KAFF
+CO,Walden,K33V
+CO,Walton Peak,KC07
+CO,Wilkerson Pass,K4BM
+CO,Wolf Creek Pass,KCPW
+CO,Wray,K2V5
+CO,Yuma,K2V6
+CT,Bridgeport,KBDR
+CT,Chester,KSNC
+CT,Danbury,KDXR
+CT,Groton/New Londo,KGON
+CT,Hartford/Brainar,KHFD
+CT,Meriden,KMMK
+CT,New Haven/Tweed,KHVN
+CT,Oxford/Waterbury,KOXC
+CT,Willimantic,KIJD
+CT,Windsor Locks,KBDL
+DC,Washington/Natl,KDCA
+DE,Dover Afb,KDOV
+DE,Dover/Cheswold,K33N
+DE,Georgetown,KGED
+DE,Wilmington,KILG
+FL,Apalachicola,KAAF
+FL,Bartow Municipal,KBOW
+FL,Boca Raton,KBCT
+FL,Bonifay Tri-Cty,K1J0
+FL,Brooksville,KBKV
+FL,Cape Canaveral,KXMR
+FL,Cecil Field Nas,KNZC
+FL,Clearwater,KCLW
+FL,Clewistown,K2IS
+FL,Crestview,KCEW
+FL,Cross City,KCTY
+FL,Crystal River,KCGC
+FL,Daytona Beach,KDAB
+FL,De Funiak Sprngs,K54J
+FL,Deland,KDED
+FL,Destin,KDTS
+FL,Duke Fld/Eglin,KEGI
+FL,Eglin Afb/Valpar,KVPS
+FL,Everglades City,KEGC
+FL,Fernandina Beach,KFHB
+FL,Flagler Cnty,KFIN
+FL,Flamingo/Monroe,KFLM
+FL,Fort Myers,KFMY
+FL,Fort Myers,KRSW
+FL,Fort Pierce,KFPR
+FL,Ft Lauderd/Exec,KFXE
+FL,Ft Lauderd/Holly,KFLL
+FL,Gainesville,KGNV
+FL,Hollywood,KHWO
+FL,Homestead Afb,KHST
+FL,Hurlburt Field,KHRT
+FL,Immokalee,KIMM
+FL,Inverness,KINF
+FL,Jacksonvil/Cecil,KVQQ
+FL,Jacksonvil/Craig,KCRG
+FL,Jacksonvil/Herlo,KHEG
+FL,Jacksonvil/Naval,KNEN
+FL,Jacksonville,KJAX
+FL,Jacksonville Nas,KNIP
+FL,Key West,KEYW
+FL,Key West Nas,KNQX
+FL,Keystone Heights,K42J
+FL,Kissimmee/Orland,KISM
+FL,La Belle,KX14
+FL,Lake City,KLCQ
+FL,Lake Wales,KX07
+FL,Lakeland Regiona,KLAL
+FL,Lantana/Palm Bea,KLNA
+FL,Leesburg,KLEE
+FL,Live Oak/Suwanne,K24J
+FL,Macdill Afb/Tamp,KMCF
+FL,Marathon,KMTH
+FL,Marco Island,KMKY
+FL,Marianna,KMAI
+FL,Mayport Nas,KNRB
+FL,Melbourne,KMLB
+FL,Merritt Island,KCOI
+FL,Miami,KMIA
+FL,Miami Beach,KMBF
+FL,Miami/Executive,KTMB
+FL,Miami/Opa Locka,KOPF
+FL,Milton/Whiting S,KNDZ
+FL,Naples Municipal,KAPF
+FL,Nasa Shuttle Fcl,KTTS
+FL,New Port Richey,KRRF
+FL,New Smyrna Beach,KEVB
+FL,North Palm Beach,KF45
+FL,Ocala Muni,KOCF
+FL,Ocean Reef,KOCR
+FL,Okeechobee Cty,KOBE
+FL,Orlando,KMCO
+FL,Orlando,KORL
+FL,Ormond Beach Vor,KOMN
+FL,Palatka Muni,K28J
+FL,Palm Coast,KXFL
+FL,Panama City,KECP
+FL,Patrick Afb/Coco,KCOF
+FL,Pensacola,KPNS
+FL,Pensacola Nas,KNPA
+FL,Perry Foley,K40J
+FL,Perry Foley,KFPY
+FL,Placida,K54A
+FL,Plant City Muni,KPCM
+FL,Pompano Beach,KPMP
+FL,Port Richey,KX41
+FL,Punta Gorda,KPGD
+FL,Quincy,K2J9
+FL,Sanford/Orlando,KSFB
+FL,Sarasota/Bradent,KSRQ
+FL,Sebastian,KX26
+FL,Sebring,KSEF
+FL,St Augustine,KSGJ
+FL,St Peters/Albert,KSPG
+FL,St Petersburg,KPIE
+FL,Stuart/Witham,KSUA
+FL,Tallahassee,KTLH
+FL,Tampa,KTPA
+FL,Tampa/O Knight,KTPF
+FL,Tampa/Vandenburg,KVDF
+FL,The Villages,KVVG
+FL,Titusville,KTIX
+FL,Tyndall Afb,KPAM
+FL,Tyndall Drone,KTDR
+FL,Venice,KVNC
+FL,Vero Beach,KTRV
+FL,Vero Beach,KVRB
+FL,West Palm Beach,KPBI
+FL,Whiting Fld Nas,KNSE
+FL,Williston,KX60
+FL,Winter Haven,KGIF
+FL,Zephyrhills,KZPH
+GA,Albany,KABY
+GA,Alma,KAMG
+GA,Americus,KACJ
+GA,Athens,KAHN
+GA,Atlanta,KATL
+GA,Atlanta/Fulton,KFTY
+GA,Atlanta/Paulding,KPUJ
+GA,Augusta/Bush,KAGS
+GA,Augusta/Daniel,KDNL
+GA,Bainbridge,KBGE
+GA,Baxley Muni,KBHC
+GA,Blairsville,KDZJ
+GA,Blakely Early C,KBIJ
+GA,Brunswick,KSSI
+GA,Brunswick/Glynco,KBQK
+GA,Butler,K6A1
+GA,Calhoun,KCZL
+GA,Camilla,KCXU
+GA,Canon,K18A
+GA,Canton/Cherokee,KCNI
+GA,Carrollton/Gray,KCTJ
+GA,Cartersville,KVPC
+GA,Claxton/Evans Co,KCWV
+GA,Cochran,K48A
+GA,Columbus,KCSG
+GA,Cordele,KCKF
+GA,Cornelia,KAJR
+GA,Covington,K9A1
+GA,Covington,KCVC
+GA,Dalton,KDNN
+GA,Dobbins Afb/Mari,KMGE
+GA,Donaldson,K17J
+GA,Douglas Muni,KDQH
+GA,Dublin,KDBN
+GA,Eastman,KEZM
+GA,Elberton Patz F,K27A
+GA,Elberton Patz F,KEBA
+GA,Fitzgerald,KFZG
+GA,Ft Benning/Colum,KLSF
+GA,Ft Stewart/Wrigh,KLHW
+GA,Gainesville,KGVL
+GA,Gilmore County,K49A
+GA,Greensboro,K3J7
+GA,Griffin-Spalding,K6A2
+GA,Hampton/Clay Cnt,K4A7
+GA,Hampton/Henry,KHMP
+GA,Hazelhurst,KAZE
+GA,Homerville,KHOE
+GA,Jasper,KJZP
+GA,Jefferson,K19A
+GA,Jefferson,KJCA
+GA,Jesup/Wayne Cty,KJES
+GA,La Grange,KLGC
+GA,Lafayette,K9A5
+GA,Lawrenceville,KLZU
+GA,Louisville,K2J3
+GA,Macon,KMCN
+GA,Marietta Mccolum,KRYY
+GA,Mcduffie/Thomson,KHQU
+GA,Metter,KHME
+GA,Metter,KMHP
+GA,Milledgeville,KMLJ
+GA,Millen,K2J5
+GA,Monroe,KD73
+GA,Moody Afb/Valdos,KVAD
+GA,Moultrie Muni,KMGR
+GA,Moultrie/Spence,KMUL
+GA,Newnan,KCCO
+GA,Peachtree City,KFFC
+GA,Peachtree/Dekalb,KPDK
+GA,Perry Houston Cn,KPXE
+GA,Pine Mountain,KPIM
+GA,Reidsville,KRVJ
+GA,Rome,KRMG
+GA,Sandersville,KOKZ
+GA,Savannah,KSAV
+GA,Savannah/Hunter,KSVN
+GA,Statesboro,KTBR
+GA,Swainsboro,KSBO
+GA,Sylvania,KJYL
+GA,Thomaston Upson,KOPN
+GA,Thomasville,KTVI
+GA,Tifton,KTMA
+GA,Toccoa,KTOC
+GA,Valdosta Regiona,KVLD
+GA,Vidalia Muni,KVDI
+GA,Warner Robins Af,KWRB
+GA,Washington,KIIY
+GA,Waycross/Ware Co,KAYS
+GA,Winder/Barrow,KWDR
+HI,Barking Sands/Ka,PHBK
+HI,Bradshaw Aaf/Haw,PHSF
+HI,Hana,PHHN
+HI,Hickam Afb,PHIK
+HI,Hilo,PHTO
+HI,Honolulu,PHNL
+HI,Kahului,PHOG
+HI,Kailua/Kona,PHKO
+HI,Kalaeloa,PHJR
+HI,Kalaupapa,PHLU
+HI,Kaneohe Mcas,PHNG
+HI,Lahaina/West Mau,PHJH
+HI,Lanai City Airpo,PHNY
+HI,Lihue/Kauai Is,PHLI
+HI,Midway Island Na,PMDY
+HI,Molokai,PHMK
+HI,Molokai/Kukui,PHMO
+HI,Wheeler Afb/Oahu,PHHI
+IA,Algona,KAXA
+IA,Ames,KAMW
+IA,Ankeny,KIKV
+IA,Atlantic,KAIO
+IA,Audubon,KADU
+IA,Boone Muni,KBNW
+IA,Burlington,KBRL
+IA,Carroll,KCIN
+IA,Cedar Rapids,KCID
+IA,Centerville Muni,KTVK
+IA,Chariton,KCNC
+IA,Charles City,KCCY
+IA,Cherokee,KCKP
+IA,Clarinda,KICL
+IA,Clarion,KCAV
+IA,Clinton Muni,KCWI
+IA,Council Bluffs,KCBF
+IA,Creston,KCSQ
+IA,Davenport/Quad C,KDVN
+IA,Decorah,KDEH
+IA,Denison,KDNS
+IA,Des Moines,KDSM
+IA,Dubuque,KDBQ
+IA,Estherville,KEST
+IA,Fairfield,KFFL
+IA,Forest City,KFXY
+IA,Fort Dodge,KFOD
+IA,Fort Madison,KFSW
+IA,Grinnell Reg,KGGI
+IA,Hampton,KHPT
+IA,Harlan Muni,KHNR
+IA,Independence,KIIB
+IA,Iowa City,KIOW
+IA,Iowa Falls Muni,KIFA
+IA,Keokuk Muni,KEOK
+IA,Knoxville,KOXV
+IA,Lamoni,KLWD
+IA,Le Mars,KLRJ
+IA,Marshalltown,KMIW
+IA,Mason City,KMCW
+IA,Maurice,KSXK
+IA,Monticello Muni,KMXO
+IA,Mt Pleasant,KMPZ
+IA,Muscatine,KMUT
+IA,Newton Muni,KTNU
+IA,Oelwen,KOLZ
+IA,Orange City,KORC
+IA,Osceola Muni,KI75
+IA,Oskaloosa Muni,KOOA
+IA,Ottumwa,KOTM
+IA,Pella,KPEA
+IA,Perry Muni,KPRO
+IA,Red Oak,KRDK
+IA,Sheldon,KSHL
+IA,Shenandoah Muni,KSDA
+IA,Sioux City,KSUX
+IA,Spencer,KSPW
+IA,Storm Lake,KSLB
+IA,Vinton,KVTI
+IA,Washington,KAWG
+IA,Waterloo,KALO
+IA,Webster City,KEBS
+ID,Boise,KBOI
+ID,Bonners Ferry,K65S
+ID,Burley,KBYI
+ID,Caldwell,KEUL
+ID,Challis,KLLJ
+ID,Coeur D'Alene,KCOE
+ID,Driggs Reed Mem,KDIJ
+ID,Grangeville,KGIC
+ID,Hailey/Friedman,KSUN
+ID,Idaho Falls,KIDA
+ID,Jerome County,KJER
+ID,Lewiston,KLWS
+ID,Lowell/Elk City,KP69
+ID,Malad City,KMLD
+ID,Malta (Awrs),K77M
+ID,Mccall,KMYL
+ID,Mountain Home,KMUO
+ID,Mullan Pass,KMLP
+ID,Nampa,KMAN
+ID,Paris,K1U7
+ID,Pocatello,KPIH
+ID,Rexburg,KRXE
+ID,Salmon/Lemhi,KSMN
+ID,Soda Springs,KU78
+ID,Spencer,KS14
+ID,Stanley,KSNT
+ID,Twin Falls,KTWF
+ID,Wall/Sandpoint,KSZT
+IL,Alton/St Louis R,KALN
+IL,Bloomington/Norm,KBMI
+IL,Cahokia/St Louis,KCPS
+IL,Cairo,KCIR
+IL,Carbondale/Murph,KMDH
+IL,Carmi Muni,KCUL
+IL,Centralia,KENL
+IL,Champaign/Urbana,KCMI
+IL,Chicago,KMDW
+IL,Chicago O'Hare,KORD
+IL,Chicago/Aurora,KARR
+IL,Chicago/Dupage,KDPA
+IL,Chicago/Lansing,KIGQ
+IL,Chicago/Meigs,KCGX
+IL,Danville,KDNV
+IL,De Kalb,KDKB
+IL,Decatur,KDEC
+IL,Dixon,KC73
+IL,Effingham,K1H2
+IL,Fairfield,KFWC
+IL,Flora,KFOA
+IL,Freeport,KFEP
+IL,Galesburg,KGBG
+IL,Greenville,KGRE
+IL,Harrisburg,KHSB
+IL,Jacksonville,KIJX
+IL,Joliet,KJOT
+IL,Kankakee,KIKK
+IL,Lacon,KC75
+IL,Lawrenceville,KLWV
+IL,Lincoln,KAAA
+IL,Litchfield Muni,K3LF
+IL,Macomb Muni,KMQB
+IL,Marion Regional,KMWA
+IL,Marseilles,KMMO
+IL,Mattoon/Charlest,KMTO
+IL,Metropolis,KM30
+IL,Moline/Quad City,KMLI
+IL,Monee,KC56
+IL,Morris-Washburn,KC09
+IL,Mount Carmel,KAJG
+IL,Mount Sterling,KI63
+IL,Mount Vernon,KMVN
+IL,Olney-Noble,KOLY
+IL,Palwaukee,KPWK
+IL,Paris,KPRG
+IL,Peoria,KPIA
+IL,Peru,KVYS
+IL,Pittsfield,KPPQ
+IL,Pontiac,KPNT
+IL,Quincy Muni/Bald,KUIN
+IL,Rantoul,KTIP
+IL,Robinson Muni,KRSV
+IL,Rochelle/Koritz,KRPJ
+IL,Rockford,KRFD
+IL,Romeoville/Chi,KLOT
+IL,Salem/Leckrone,KSLO
+IL,Savanna/Tritown,KSFY
+IL,Schaumburg,K06C
+IL,Scott Afb/Bellev,KBLV
+IL,Sparta,KSAR
+IL,Springfield,KSPI
+IL,Sterling Rockfal,KSQI
+IL,Taylorville,KTAZ
+IL,Vandalia,KVLA
+IL,Waukegan,KUGN
+IN,Anderson Municip,KAID
+IN,Angola,KANQ
+IN,Atterbury,KHBE
+IN,Auburn Dekalb C,KGWB
+IN,Bloomington,KBMG
+IN,Columbus/Balkala,KBAK
+IN,Crawfordsville,KCFJ
+IN,Daviess County,KDCY
+IN,Elkhart Municipa,KEKM
+IN,Evansville,KEVV
+IN,Fort Wayne,KFWA
+IN,Fort Wayne Smith,KSMD
+IN,Frankfort,KFKR
+IN,French Lick,KFRH
+IN,Gary Regional,KGYY
+IN,Goshen,KGSH
+IN,Greencastle,K4I7
+IN,Greencastle,KGPC
+IN,Greenwood,KHFY
+IN,Grissom Afb/Peru,KGUS
+IN,Himsel Aaf,K1II
+IN,Huntingburg,KHNB
+IN,Huntington,KHHG
+IN,Indianapolis,KEYE
+IN,Indianapolis,KIND
+IN,Indianapolis Exc,KTYQ
+IN,Indianapolis Reg,KMQJ
+IN,Jeffersonville,KJVY
+IN,Kendallville,KC62
+IN,Knox Starke Cty,KOXI
+IN,Kokomo,KOKK
+IN,La Porte,KPPO
+IN,Lafayette,KLAF
+IN,Logansport,KGGP
+IN,Madison,KIMS
+IN,Marion Muni,KMZZ
+IN,Michigan City,KMGC
+IN,Monticello/White,KMCX
+IN,Muncie,KMIE
+IN,Plymouth,KC65
+IN,Portland,KPLD
+IN,Rensselaer,KRZL
+IN,Richmond,KRID
+IN,Rochester,KRCR
+IN,Shelbyville,KGEZ
+IN,South Bend,KSBN
+IN,Terre Haute,KHUF
+IN,Valparaiso,KVPZ
+IN,Warsaw Muni,KASW
+KS,Abilene,KK78
+KS,Atwood,KADT
+KS,Augusta,K3AU
+KS,Bassett,KK88
+KS,Benton,K1K1
+KS,Burlington,KUKL
+KS,Chanute,KCNU
+KS,Coffeyville,KCFV
+KS,Colby,KCBK
+KS,Concordia,KCNK
+KS,Dodge City,KDDC
+KS,Eldorado,KEQA
+KS,Elkhart,KEHA
+KS,Ellsworth,K9K7
+KS,Emporia,KEMP
+KS,Eureka,K13K
+KS,Fort Leavenworth,KFLV
+KS,Fort Scott,KFSK
+KS,Ft Riley/Marshal,KFRI
+KS,Garden City,KGCK
+KS,Garnett,KK68
+KS,Goodland,KGLD
+KS,Great Bend,KGBD
+KS,Grinnell,KGNL
+KS,Harper,K8K2
+KS,Hays Muni,KHYS
+KS,Herndon,KHD7
+KS,Hill City,KHLC
+KS,Hoxie,KHOX
+KS,Hugoton,KHQG
+KS,Hutchinson,KHUT
+KS,Independence,KIDP
+KS,Jennings,KJN8
+KS,Johnson,K2K3
+KS,Johnson City,KJHN
+KS,Kingman,K9K8
+KS,Lawrence,KLWC
+KS,Leoti/Hoard Meml,K3K7
+KS,Liberal,KLBL
+KS,Logan,KLG5
+KS,Lyons,KLYO
+KS,Manhattan,KMHK
+KS,Marysville,KMYZ
+KS,Mcconnell Afb,KIAB
+KS,Mcpherson,KMPR
+KS,Medicine Lodge,KP28
+KS,New Almelo,KAL8
+KS,Newton,KEWK
+KS,Norton,KNRN
+KS,Oakley,KOEL
+KS,Oberlin,KOIN
+KS,Olathe/Executive,KOJC
+KS,Olathe/Industria,KIXD
+KS,Ottawa,KOWI
+KS,Parsons,KPPF
+KS,Phillipsburg,KPHG
+KS,Pittsburg,KPTS
+KS,Pratt Indust,KPTT
+KS,Russell,KRSL
+KS,Salina,KSLN
+KS,Scott City,KTQK
+KS,Smith Center,KK82
+KS,St Francis,KSYF
+KS,Sublette,K19S
+KS,Syracuse,K3K3
+KS,Topeka,KTOP
+KS,Topeka/Forbes,KFOE
+KS,Tribune,KTRB
+KS,Ulysses,KULS
+KS,Wakeeney,KWK6
+KS,Wellington,KEGT
+KS,Wichita,KICT
+KS,Wichita/Beech,KBEC
+KS,Wichita/Jabara,KAAO
+KS,Winfield/Arkansa,KWLD
+KY,Ashland,KDWU
+KY,Bardstown,KBRY
+KY,Big Sandy Rgnl,KSJS
+KY,Bowling Gree,KBWG
+KY,Campbellsville,KAAS
+KY,Covington,KCVG
+KY,Danville,KDVK
+KY,Falmouth,KK62
+KY,Flemingsburg,KFGX
+KY,Fort Knox/Godman,KFTK
+KY,Frankfort,KFFT
+KY,Georgetown,K27K
+KY,Glasgow,KGLW
+KY,Greenville,KM21
+KY,Harlan,KI35
+KY,Hazard,KCPF
+KY,Henderson City,KEHR
+KY,Hopkinsville,KHOP
+KY,Lebanon-Springfi,K6I2
+KY,Lewisport,KKY8
+KY,Lexington,KLEX
+KY,London,KLOZ
+KY,Louisville,KSDF
+KY,Louisville/Bowmn,KLOU
+KY,Louisville/Wfo,KLMK
+KY,Madisonville,K2I0
+KY,Marion,K5M9
+KY,Mayfield,KM25
+KY,Middlesboro-Bell,K1A6
+KY,Monticello/Wayne,KEKQ
+KY,Morehead,KM97
+KY,Morehead,KSYM
+KY,Mount Sterling,KIOB
+KY,Murray Kyle-Oak,KCEY
+KY,Noctor/Jackson,KJKL
+KY,Owensboro/Davies,KOWB
+KY,Paducah,KPAH
+KY,Pikeville,KPBX
+KY,Richmond,KRGA
+KY,Richmond/Madison,KI39
+KY,Somerset,KSME
+KY,Tompkinsville,KTZV
+KY,Williamsburg,KBYL
+LA,Abbeville Cc Mem,KIYA
+LA,Alexandria,KAEX
+LA,Alexandria,KESF
+LA,Amelia/Lake Palo,K7R3
+LA,Atlantis Oilp,KATP
+LA,Audubon Park,KAUD
+LA,Barksdale Afb,KBAD
+LA,Bastrop Morehous,KBQP
+LA,Baton Rouge,KBTR
+LA,Bogalusa Carr F,KBXA
+LA,Boothville,KBVE
+LA,Boothville Hel,KLNQ
+LA,Cameron,KCVW
+LA,Cameron Heliport,K7R5
+LA,Chenault/Lk Chas,KCWF
+LA,Dequincey Ind Ar,K5R8
+LA,Deridder/Fss,KDRI
+LA,E Cameron 321A,KEZP
+LA,E Cameron 346,KE12
+LA,E Cameron 47Jp,KCMB
+LA,E Cameron278Oilp,KEHC
+LA,Eugene I 215Oilp,KEIR
+LA,Eugene Is 330,K3B6
+LA,Fort Polk Fr,KPOE
+LA,Fourchon (Sawrs),K9F2
+LA,Fullerton/Polk,KBKB
+LA,Galliano,KGAO
+LA,Galliano Heliprt,K2GL
+LA,Galliano Heliprt,K2LS
+LA,Garden Banks172,KGHB
+LA,Gomex 354,KSQE
+LA,Gonzales,KL38
+LA,Gonzales,KREG
+LA,Grand Chenier,K3L4
+LA,Grand Isle (Sawr,KAXO
+LA,Green Canyon 184,KXCN
+LA,Green Canyon 338,KGRY
+LA,Green Canyon 52,K28K
+LA,Hammond,KHDC
+LA,High Is. 179A,KXIH
+LA,High Is. 264C,KH08
+LA,High Island 334A,KH02
+LA,Houma Terrebonne,KHUM
+LA,Indepedence 920,KIPN
+LA,Intracoastal Cit,K7R4
+LA,Jennings,K3R7
+LA,Keathley C 875,K18H
+LA,Lafayette,KLFT
+LA,Lake Charles,KLCH
+LA,Magnolia Oilp,KGBK
+LA,Main Pass 140B,KMIS
+LA,Main Pass 289C,KVKY
+LA,Manfield,K3F3
+LA,Marathon-Venice,K5LA
+LA,Minden,KMNE
+LA,Miss Canyan 807,KCYD
+LA,Miss Canyon 311A,KMDJ
+LA,Miss Canyon 474,KIKT
+LA,Mississippi Cany,KDSF
+LA,Monroe,KMLU
+LA,Natchitoches,KIER
+LA,New Iberia,KARA
+LA,New Orleans Nas,KNBG
+LA,New Orleans/Intl,KMSY
+LA,New Orleans/Lake,KNEW
+LA,New Orleans/Supe,K7N0
+LA,New Orleans/Supe,KVSH
+LA,New Roads,KHZR
+LA,Oakdale Allen P,KACP
+LA,Offshore,KH78
+LA,Opelousas,KOPL
+LA,Patterson Memori,KPTN
+LA,Peason Ridg/Polk,KAQV
+LA,Phi Oil Platf,K4C0
+LA,Phi Oil Platf,K4CO
+LA,Port Fourchon,KXPY
+LA,Reserve,K1L0
+LA,Reserve,KAPS
+LA,Ruston Regional,KRSN
+LA,S Marsh Isl 268,KSRN
+LA,S Marsh Island,K7R8
+LA,S Marsh268 Oilp,KSCF
+LA,S Timbalier 301B,KSTZ
+LA,Sabine 13B Oilp,KVBS
+LA,Salt Point,KP92
+LA,Self Strip/Polk,KDNK
+LA,Ship Shoal 207,KGSM
+LA,Ship Shoal 241,KPZZ
+LA,Ship Shoal178,KSPR
+LA,Shreveport,KSHV
+LA,Shreveport/Dwntn,KDTN
+LA,Slidell 22,KASD
+LA,South Timbalier,KS58
+LA,Sulphur,KUXL
+LA,Tallulah/Vicksbu,KTVR
+LA,Venice Heliport,K1B7
+LA,Vermilion 331,KVQT
+LA,Vermillion26Oilp,KVNP
+LA,Vidalia/Concordi,K0R4
+LA,W. Cameron 560,KW60
+LA,Walker Ridge 29,KWBF
+MA,Bedford,KBED
+MA,Beverly,KBVY
+MA,Boston,KBOS
+MA,Chatham,KCHH
+MA,Chatham,KCQX
+MA,Chicopee/Westove,KCEF
+MA,East Milton,KMQE
+MA,Falmouth/Otis Ab,KFMH
+MA,Fitchburg,KFIT
+MA,Hyannis,KHYA
+MA,Lawrence,KLWM
+MA,Marshfield,KGHG
+MA,Marthas Vineyard,KMVY
+MA,Nantucket,KACK
+MA,New Bedford,KEWB
+MA,North Adams,KAQW
+MA,Norwood,KOWD
+MA,Orange,KORE
+MA,Pittsfield,KPSF
+MA,Plymouth,KPYM
+MA,Provincetown,KPVC
+MA,South Weymouth,KNZW
+MA,Taunton,KTAN
+MA,Westfield,KBAF
+MA,Worcester,KORH
+MD,Aberdeen/Phillip,KAPG
+MD,Andrews Afb,KADW
+MD,Annapolis/Naval,KNAK
+MD,Baltimore/Dwntwn,KDMH
+MD,Baltimore/Martin,KMTN
+MD,Balto/Wash Intl,KBWI
+MD,Cambridge-Dorch,KCGE
+MD,Carroll Cnty,KDMW
+MD,Clinton,KW32
+MD,College Park,KCGS
+MD,Cumberland Reg,KCBE
+MD,Easton/Newnam,KESN
+MD,Fort Meade,KFME
+MD,Fort Ritchie,KJWX
+MD,Frederick,KFDK
+MD,Gaithersburg,KGAI
+MD,Garrett Co,K2G4
+MD,Hagerstown,KHGR
+MD,Nsf Thurmont,KRSP
+MD,Ocean City,KOXB
+MD,Patuxent River,KNHK
+MD,Ridgely,KRJD
+MD,Salisbury,KSBY
+MD,St Marys (Duke),K2W6
+MD,Stevensville,KW29
+MD,Webster Naval,KNUI
+ME,Auburn/Lewiston,KLEW
+ME,Augusta,KAUG
+ME,Bangor,KBGR
+ME,Bar Harbor,KBHB
+ME,Brunswick Nas,KNHZ
+ME,Caribou,KCAR
+ME,Carrabassett,KB21
+ME,Clayton Lake,K40B
+ME,Eastport,KEPM
+ME,Frenchville,KFVE
+ME,Fryeburg,KIZG
+ME,Greenville,KGNR
+ME,Houlton,KHUL
+ME,Millinocket,KMLT
+ME,Old Town/Dewitt,KOLD
+ME,Portland,KPWM
+ME,Presque Isle,KPQI
+ME,Rockland/Knox,KRKD
+ME,Sanford Muni,KSFM
+ME,Waterville,KWVL
+ME,Wiscasset,KIWI
+MI,Adrian,KADG
+MI,Alma,KAMN
+MI,Alpena,KAPN
+MI,Ann Arbor,KARB
+MI,Bad Axe,KBAX
+MI,Battle Creek,KBTL
+MI,Beaver Island,KSJX
+MI,Bellaire,KACB
+MI,Benton Harbor,KBEH
+MI,Big Rapids,KRQB
+MI,Cadillac/Wexford,KCAD
+MI,Caro/Tuscola,KCFS
+MI,Charlevoix,KCVX
+MI,Charlotte,KFPK
+MI,Cheboygan,KSLH
+MI,Chippewa Intl,KCIU
+MI,Coldwater,KOEB
+MI,Copper Harbor,KP59
+MI,Detroit/City Air,KDET
+MI,Detroit/Grosse I,KONZ
+MI,Detroit/Wayne,KDTW
+MI,Detroit/Willow,KYIP
+MI,Drummond Is,KDRM
+MI,Escanaba,KESC
+MI,Flint,KFNT
+MI,Frankfort,KFKS
+MI,Fremont,KFFX
+MI,Gaylord,KGLR
+MI,Grand Rapids,KGRR
+MI,Grayling Af,KGOV
+MI,Gwinn/Sawyer,KSAW
+MI,Hancock,KCMX
+MI,Harbor Springs,KMGN
+MI,Hart/Shelby,KC04
+MI,Hillsdale,KJYM
+MI,Holland,KBIV
+MI,Houghton Lake,KHTL
+MI,Howell,KOZW
+MI,Ionia,KY70
+MI,Iron Mountain,KIMT
+MI,Ironwood,KIWD
+MI,Jackson/Reynolds,KJXN
+MI,Kalamazoo,KAZO
+MI,Lambertville,KDUH
+MI,Lansing,KLAN
+MI,Lapeer,KD95
+MI,Ludington/Mason,KLDM
+MI,Mackinac Island,KMCD
+MI,Manistee,KMBL
+MI,Manistique,KISQ
+MI,Manistique,KP75
+MI,Marshall,KRMY
+MI,Mason,KTEW
+MI,Menominee,KMNM
+MI,Midland Barstow,KIKW
+MI,Monroe,KTTF
+MI,Mount Pleasant,KMOP
+MI,Munising Lakesh,KP53
+MI,Muskegon,KMKG
+MI,Newberry,KERY
+MI,Oscoda/Wurtsmith,KOSC
+MI,Owosso,KRNP
+MI,Pellston,KPLN
+MI,Pontiac,KPTK
+MI,Port Hope,KP58
+MI,Port Huron,KPHN
+MI,Rogers City,KPZQ
+MI,Saginaw,KMBS
+MI,Saginaw/Browne,KHYX
+MI,Salem (Lansing),KSVM
+MI,Sault Ste Marie,KANJ
+MI,Sault Ste Marie,KSSM
+MI,Selfridge Angb,KMTC
+MI,South Haven,KLWA
+MI,Sturgis/Kirsch,KIRS
+MI,Three Rivers,KHAI
+MI,Traverse Cit,KTVC
+MI,Troy/Oakland,KVLL
+MI,West Branch,KY31
+MN,Aitkin Ndb,KAIT
+MN,Albert Lea,KAEL
+MN,Alexandria,KAXN
+MN,Appleton Municip,KAQP
+MN,Austin Muni,KAUM
+MN,Baudette,KBDE
+MN,Bemidji,KBJI
+MN,Benson Muni,KBBB
+MN,Bigfork,KFOZ
+MN,Brainerd,KBRD
+MN,Buffalo Muni,KCFE
+MN,Cambridge Muni,KCBG
+MN,Camp Ridley,KRYM
+MN,Canby/Myers Fld,K27D
+MN,Canby/Myers Fld,KCNB
+MN,Cloquet,KCOQ
+MN,Cook Muni Airpor,KCQM
+MN,Crane Lake,KCDD
+MN,Crookston Muni,KCKN
+MN,Detroit Lakes,KDTL
+MN,Dodge Center,KTOB
+MN,Duluth,KDLH
+MN,Duluth (Sky Harb,KDYT
+MN,Elbow Lake Muni,KY63
+MN,Ely Muni,KELO
+MN,Eveleth Muni,KEVM
+MN,Fairmont Muni,KFRM
+MN,Faribault Muni,KFBL
+MN,Fergus Falls,KFFM
+MN,Flag Island,KFGN
+MN,Fosston,KFSE
+MN,Glencoe,KGYL
+MN,Glenwood,KGHW
+MN,Grand Marais,KGNA
+MN,Grand Marais,KGRM
+MN,Grand Marais/Coo,KCKC
+MN,Grand Rapids,KGPZ
+MN,Granite Falls,KGDB
+MN,Hallock,KHCO
+MN,Hibbing,KHIB
+MN,Hinckley,K04W
+MN,Hutchinson,KHCD
+MN,Interntnl Falls,KINL
+MN,Jackson Muni,KMJQ
+MN,Lake Elmo,K21D
+MN,Litchfield,KLJF
+MN,Little Falls,KLXL
+MN,Long Prairie,K14Y
+MN,Longville,KXVG
+MN,Luverne,KLYV
+MN,Madison,KDXX
+MN,Mahnomen,K3N8
+MN,Mankato,KMKT
+MN,Maple Lake,KMGG
+MN,Marshall/Ryan,KMML
+MN,Mcgregor/Iverson,KHZX
+MN,Minneapls/Blaine,KANE
+MN,Minneapolis,KMSP
+MN,Mnpls/Airlake,KLVN
+MN,Mnpls/Crystal,KMIC
+MN,Mnpls/Flying Cld,KFCM
+MN,Montevideo,KMVE
+MN,Moorhead Muni,KJKJ
+MN,Moose Lake,KMZH
+MN,Mora,KJMR
+MN,Morris Muni,KMOX
+MN,New Ulm Muni,KULM
+MN,Olivia,KOVL
+MN,Orr,KORB
+MN,Ortonville,KVVV
+MN,Owatonna,KOWA
+MN,Park Rapids,KPKD
+MN,Paynesville,KPEX
+MN,Pine River Regio,KPWC
+MN,Pipestone,KPQN
+MN,Preston,KFKA
+MN,Princeton Muni,KPNM
+MN,Red Wing,KRGK
+MN,Redwood Fall,KRWF
+MN,Rochester,KRST
+MN,Roseau Muni,KROX
+MN,Rush City,KROS
+MN,Sauk Centre,KD39
+MN,Silver Bay,KBFW
+MN,Slayton,KDVP
+MN,South St Paul,KSGS
+MN,St Mary Hospital,K9MN
+MN,St. Cloud,KSTC
+MN,St. James,KJYG
+MN,St. Paul,KSTP
+MN,Stanton,KSYN
+MN,Staples,KSAZ
+MN,Thief River,KTVF
+MN,Tofte (Ramos),KP61
+MN,Tracy,KTKC
+MN,Two Harbors,KTWM
+MN,Wadena Muni,KADC
+MN,Walker Muni,KY49
+MN,Warroad,KRRT
+MN,Waseca,KACQ
+MN,Waskish Muni,KVWU
+MN,Wheaton Ndb,KETH
+MN,Willmar Muni,KBDH
+MN,Willmar/Rice,KILL
+MN,Windom Muni Airp,KMWM
+MN,Winona Muni,KONA
+MN,Worthington,KOTG
+MO,Boonville,KVER
+MO,Branson,KBBG
+MO,Branson West,KFWB
+MO,Camdenton,KH21
+MO,Camdenton,KOZS
+MO,Cameron,KEZZ
+MO,Cape Girardeau,KCGI
+MO,Chillicothe,KCDJ
+MO,Clinton,KGLY
+MO,Columbia,KCOU
+MO,Farmington,KFAM
+MO,Fort Leonard Woo,KTBN
+MO,Grandview,KGVW
+MO,Hannibal,KHAE
+MO,Harrisonville,KLRY
+MO,Jefferson City,KJEF
+MO,Joplin,KJLN
+MO,Kaiser Mem,KAIZ
+MO,Kansas City/Dntn,KMKC
+MO,Kansas City/Intl,KMCI
+MO,Kennett,KTKX
+MO,Kirksville,KIRK
+MO,Lebanon,KLBO
+MO,Lees Summit Muni,KLXT
+MO,Malden,KMAW
+MO,Marshall,KMHL
+MO,Maryville,KEVU
+MO,Mexico,KMYJ
+MO,Moberly,KMBY
+MO,Monett,KHFJ
+MO,Mosby,KGPH
+MO,Neosho,KEOS
+MO,Nevada,KNVD
+MO,Perryville,KK02
+MO,Perryville,KPCD
+MO,Piedmont,KPYN
+MO,Popular Bluff,KPOF
+MO,Sedalia,KDMO
+MO,Sikeston,KSIK
+MO,Spickard,KP35
+MO,Springfield,KSGF
+MO,St Charles,KSET
+MO,St Joseph,KSTJ
+MO,St Louis,KSTL
+MO,St Louis/Spirit,KSUS
+MO,Sullivan,KUUV
+MO,Vichy/Rolla,KVIH
+MO,Warrensburg Skyh,KRCM
+MO,Warsaw,KRAW
+MO,Washington,KFYG
+MO,West Plains,KUNO
+MO,Whiteman Afb,KSZL
+MS,Aberdeen/Amory,KM40
+MS,Bay St Louis,KHSA
+MS,Belmont,K01M
+MS,Biloxi/Keesler,KBIX
+MS,Brookhaven,K1R7
+MS,Clarksdale,KCKM
+MS,Cleveland,KRNV
+MS,Columbia/Marion,K0R0
+MS,Columbus Afb,KCBM
+MS,Corinth/R Turner,KCRX
+MS,Golden/Columbus,KGTR
+MS,Greenville,KGLH
+MS,Greenwood,KGWO
+MS,Grenada,KGNF
+MS,Gulfport,KGPT
+MS,Hattiesburg,KHBG
+MS,Indianola,KIDL
+MS,Innovator Oilp,KMYT
+MS,Jackson,KJAN
+MS,Jackson/Hawkins,KHKS
+MS,Laurel,KLUL
+MS,Madison,KMBO
+MS,Mccomb,KMCB
+MS,Meridian Nas,KNMM
+MS,Meridian Range,KNJW
+MS,Meridian/Key Fld,KMEI
+MS,Natchez/Hardy,KHEZ
+MS,Olive Branch,KOLV
+MS,Oxford,KUOX
+MS,Panola,KPMU
+MS,Pascagoula,KPGL
+MS,Pascagoula,KPQL
+MS,Picayune,KMJD
+MS,Pine Belt Rgnl,KPIB
+MS,Raymond,KJVW
+MS,Starkville,KSTF
+MS,Tunica,KUTA
+MS,Tupelo,KTUP
+MS,Vicksburg,KVKS
+MS,West Delta 27A,KDLP
+MS,Winona,K5A6
+MT,Alpha,K1AM
+MT,Anaconda,K3U3
+MT,Baker,KBHK
+MT,Big Timber,K6S0
+MT,Billings,KBIL
+MT,Bozeman,KBZN
+MT,Bravo,K1BM
+MT,Browning,K8S0
+MT,Butte,KBTM
+MT,Charlie,K1CM
+MT,Chinook,KS71
+MT,Choteau,KCII
+MT,Circle,K4U6
+MT,Colstrip,KM46
+MT,Culbertson,KS85
+MT,Cut Bank,KCTB
+MT,Deer Lodge,K38S
+MT,Delta,K1DM
+MT,Dillon,KDLN
+MT,Drummond,K3DU
+MT,Echo,K1EM
+MT,Ekalaka,K97M
+MT,Ennis Big Sky,KEKS
+MT,Eureka,K88M
+MT,Forsyth,K1S3
+MT,Fort Benton,K79S
+MT,Foxtrot,K1FM
+MT,Glasgow,KGGW
+MT,Glendive,KGDV
+MT,Golf,K1GM
+MT,Great Falls,KGTF
+MT,Hamilton/Ravalli,K6S5
+MT,Hardin,K00U
+MT,Harlowton,K3HT
+MT,Havre,KHVR
+MT,Helena,KHLN
+MT,Hotel,K1HM
+MT,India,K1IM
+MT,Jordan,KJDN
+MT,Julie,K1JM
+MT,Kalispell,KGPI
+MT,Kilo,K1KM
+MT,Laurel,K6S8
+MT,Lewistown,KLWT
+MT,Libby,KS59
+MT,Lima,K1LM
+MT,Livingston,KLVM
+MT,Malmstrom Afb,KGFA
+MT,Malta,KM75
+MT,Mike,K1MM
+MT,Miles City,KMLS
+MT,Missoula,KMSO
+MT,N Bar Ranch,KMVH
+MT,November,K1NM
+MT,Oscar,K1OM
+MT,Plains,KS34
+MT,Plentywood,KPWD
+MT,Poplar,KPO1
+MT,Ronan,K7S0
+MT,Roundup,KRPX
+MT,Scobey,K9S2
+MT,Sidney Richland,KSDY
+MT,Thompson Falls,K3TH
+MT,Twin Bridges,K7S1
+MT,West Yellowstone,KWEY
+MT,West Yellowstone,KWYS
+MT,White Sulphur Sp,K7S6
+MT,Wolf Point,KOLF
+NC,Ahoskie/Tri Coun,KASJ
+NC,Albemarle Stanly,KVUJ
+NC,Andrews,KRHP
+NC,Asheboro Muni,KHBI
+NC,Asheville,KAVL
+NC,Beaufort,KMRH
+NC,Bogue/Swansboro,KNJM
+NC,Boone Watauga Ct,KTNB
+NC,Burlington,KBUY
+NC,Cape Hatteras,KHAT
+NC,Chapel Hill,KIGX
+NC,Charlotte,KCLT
+NC,Cherry Point,KNKT
+NC,Clinton,KCTZ
+NC,Concord Reg Arpt,KJQF
+NC,Currituck,KONX
+NC,Davidson Cty Ap,KEXX
+NC,Edenton,KEDE
+NC,Elizabeth City,KECG
+NC,Elizabethtown,KEYF
+NC,Engelhard/Hyde,K7W6
+NC,Erwin/Harnett Co,KHRJ
+NC,Fayetteville,KFAY
+NC,Fort Bragg/Simmo,KFBG
+NC,Gastonia,KAKH
+NC,Goldsboro/S. J.,KGSB
+NC,Goldsboro/Wayne,KGWW
+NC,Greensboro,KGSO
+NC,Halifax Northamp,KIXA
+NC,Hatteras/Mitchel,KHSE
+NC,Henderson/Oxford,KHNZ
+NC,Hickory,KHKY
+NC,Hoffman/Mackall,KHFF
+NC,Jacksonville,KOAJ
+NC,Jefferson,KGEV
+NC,Kenansville/Dupl,KDPL
+NC,Kill Devil Hills,KFFA
+NC,Kinston/Stalling,KISO
+NC,Lincolnton,KIPJ
+NC,Louisburg/Frankl,KLHZ
+NC,Lumberton,KLBT
+NC,Macon/Franklin,K1A5
+NC,Manteo/Dare Co,KMQI
+NC,Maxton,KMEB
+NC,Monroe,KEQY
+NC,Morganton/Lenoir,KMRN
+NC,Mount Airy/Surry,KMWK
+NC,New Bern,KEWN
+NC,New River Mcas,KNCA
+NC,Piney Island,KNBT
+NC,Pitt Greenville,KPGV
+NC,Pope Afb,KPOB
+NC,Raleigh/Durham,KRDU
+NC,Reidsville,KSIF
+NC,Roanoke Rapids,KRZZ
+NC,Rockingham,KRCZ
+NC,Rocky Mount,KRWI
+NC,Roxboro Person,KTDF
+NC,Rutherfordton,KFQD
+NC,Salisbury Rowan,KRUQ
+NC,Sanford,KTTA
+NC,Shelby Muni,KEHO
+NC,Siler City,K5W8
+NC,Siler City,KSCR
+NC,Smithfield Johns,KJNX
+NC,Southern Pines,KSOP
+NC,Southport,KSUT
+NC,Statesville,KSVH
+NC,Stumpy Point,K2DP
+NC,Sylva,K24A
+NC,Tarboro,KETC
+NC,Wadesboro/Anson,KAFP
+NC,Washington,KOCW
+NC,Whiteville,KCPC
+NC,Wilkesboro,KUKF
+NC,Wilmington,KILM
+NC,Winston Salem,KINT
+ND,Beach,K20U
+ND,Bismarck,KBIS
+ND,Bowman Muni,KBPP
+ND,Bowman Rgnl,KBWW
+ND,Cando,K9D7
+ND,Carrington,K46D
+ND,Cavalier,K2C8
+ND,Cooperstown,KS32
+ND,Crosby,KD50
+ND,Devils Lake,KDVL
+ND,Devils Lake,KP11
+ND,Dickinson,KDIK
+ND,Fargo,KFAR
+ND,Garrison,KN60
+ND,Glen Ullin,KD57
+ND,Grafton,KGAF
+ND,Grand Forks,KGFK
+ND,Grand Forks Afb,KRDR
+ND,Gwinner,KGWR
+ND,Harvey,K5H4
+ND,Hazen,KHZE
+ND,Hettinger,KHEI
+ND,Jamestown,KJMS
+ND,Langdon/Robertsn,KD55
+ND,Lidgerwood (Ramo,KP67
+ND,Linton,K7L2
+ND,Mandan,KY19
+ND,Minot,KMOT
+ND,Minot Afb,KMIB
+ND,Oakes,K2D5
+ND,Rolla,K06D
+ND,Rugby,KRUG
+ND,Stanley,K08D
+ND,Tioga,KD60
+ND,Valley City,KBAC
+ND,Wahpeton,KBWP
+ND,Walhalla,K96D
+ND,Watford City,KS25
+ND,Williston,KISN
+ND,Williston Basin,KXWA
+NE,Ainsworth Munici,KANW
+NE,Albion Muni,KBVN
+NE,Alliance,KAIA
+NE,Aurora,KAUH
+NE,Beatrice Municip,KBIE
+NE,Benkelman-Jones,K42V
+NE,Blair Muni,KBTA
+NE,Bravo Madis,K1BW
+NE,Broken Bow Muni,KBBW
+NE,Chadron,KCDR
+NE,Champion,KCHM
+NE,Charlie Madis,K1CW
+NE,Columbus Muni,KOLU
+NE,Delta Madis,K1DW
+NE,Echo Madis,K1EW
+NE,Falls City/Brenn,KFNB
+NE,Foxtrot Madis,K1FW
+NE,Fremont Muni Arp,KFET
+NE,Golf Madis,K1GW
+NE,Gordon,KGRN
+NE,Grand Island,KGRI
+NE,Hastings,KHSI
+NE,Hebron Muni,KHJH
+NE,Holdrege/Brewstr,KHDE
+NE,Hotel Madis,K1HW
+NE,Imperial Municip,KIML
+NE,India Madis,K1IW
+NE,Kearney Muni,KEAR
+NE,Kilo Madis,K1KW
+NE,Kimball Muni,KIBM
+NE,Lexington,KLXN
+NE,Lincoln,KLNK
+NE,Mccook,KMCK
+NE,Nebraska City,KAFK
+NE,Norfolk,KOFK
+NE,North Omaha,KOVN
+NE,North Platte,KLBF
+NE,Offutt Afb/Belle,KOFF
+NE,Ogallala,KOGA
+NE,Omaha/Eppley,KOMA
+NE,Omaha/Millard,KMLE
+NE,O'Neill,KONL
+NE,Ord/Sharp Field,KODX
+NE,Plattsmouth Muni,KPMV
+NE,Scottsbluff,KBFF
+NE,Sidney,KSNY
+NE,Tekamah,KTQE
+NE,Thedford/Thomas,KTIF
+NE,Valentine,KVTN
+NE,Wahoo,KAHQ
+NE,Wayne Muni,KLCG
+NE,York,KJYR
+NH,Berlin,KBML
+NH,Concord,KCON
+NH,Jaffrey,KAFN
+NH,Keene/Dillant,KEEN
+NH,Laconia Muni,KLCI
+NH,Lebanon,KLEB
+NH,Manchester,KMHT
+NH,Mount Washington,KMWN
+NH,Nashua/Boire Fld,KASH
+NH,Plymouth,K1P1
+NH,Portsmouth/Pease,KPSM
+NH,Rochester,KDAW
+NH,Whitefield,KHIE
+NJ,Alexandria,KN85
+NJ,Andover,K12N
+NJ,Atlantic City,KACY
+NJ,Belmar/Farmdale,KBLM
+NJ,Blairstown,K1N7
+NJ,Caldwell,KCDW
+NJ,Cross Keys,K17N
+NJ,Hammonton,KN81
+NJ,Lakehurst Nas,KNEL
+NJ,Lakewood,KN12
+NJ,Lincoln Park,KN07
+NJ,Linden,KLDJ
+NJ,Lumberton,KN14
+NJ,Manville,K47N
+NJ,Millville,KMIV
+NJ,Morristown Muni,KMMU
+NJ,Mount Holly,KVAY
+NJ,Newark,KEWR
+NJ,Ocean City,K26N
+NJ,Old Bridge,K3N6
+NJ,Pittstown,KN40
+NJ,Princeton,K39N
+NJ,Robbinsville,KN87
+NJ,Somerville,KSMQ
+NJ,Sussex,KFWN
+NJ,Teterboro,KTEB
+NJ,Toms River,KMJX
+NJ,Trenton,KTTN
+NJ,West Milford,K4N1
+NJ,Wildwood,KWWD
+NJ,Woodbine Muni,KOBI
+NJ,Wrightst/Mcguire,KWRI
+NM,Alamogordo White,KALM
+NM,Albuquerque,KABQ
+NM,Angel Fire,KAXX
+NM,Artesia,KATS
+NM,Belen,KBRG
+NM,Belen,KE80
+NM,Cannon Afb/Clovi,KCVS
+NM,Carlsbad,KCNM
+NM,Chama (Awrs),KE33
+NM,Clayton,KCAO
+NM,Clines Corners,KCQC
+NM,Clovis Muni,KCVN
+NM,Corona/Lincoln,K4CR
+NM,Deming,KDMN
+NM,Double Eagle Ii,KAEG
+NM,Farmington,KFMN
+NM,Gallup,KGUP
+NM,Grants,KGNT
+NM,Hobbs/Lea Co.,KHOB
+NM,Holloman Afb,KHMN
+NM,Las Cruces Intl,KLRU
+NM,Las Vegas,KLVS
+NM,Lordsburg,KLSB
+NM,Los Alamos,KLAM
+NM,Mcgregor Range,KM63
+NM,Melrose G Range,K4MR
+NM,Moriarty,K0E0
+NM,Moriarty,K4MY
+NM,Raton,KRTN
+NM,Roswell,KROW
+NM,Santa Fe,KSAF
+NM,Santa Rosa,KSXU
+NM,Santa Teresa,K5T6
+NM,Santa Teresa,KDNA
+NM,Sierra B/Ruidoso,KSRR
+NM,Silver City,KSVC
+NM,Socorro,KONM
+NM,Spaceport Americ,K0A0
+NM,Taos Muni Apt,KSKX
+NM,Torreon/Cuba,K4SL
+NM,Truth Or Conseq.,KTCS
+NM,Tucumcari,KTCC
+NM,White Sands Test,K2C2
+NV,Austin,KTMT
+NV,Austin,KU31
+NV,Battle Mountain,KB23
+NV,Boulder City,KBVU
+NV,Carson City,KCXP
+NV,Desert R/Mercury,KDRA
+NV,Elko,KEKO
+NV,Ely,KELY
+NV,Eureka,K05U
+NV,Eureka,KP68
+NV,Fallon Nas,KNFL
+NV,Ind Sprng Range,KL63
+NV,Indian Springs,KINS
+NV,Las Vegas,KLAS
+NV,Las Vegas/Nellis,KLSV
+NV,Lovelock,KLOL
+NV,Minden,KMEV
+NV,North Las Vegas,KVGT
+NV,Reno,KRNO
+NV,Reno/Stead,KRTS
+NV,Tonopah,KTPH
+NV,Tonopah Range74,KBJN
+NV,Vegas/Henderson,KHND
+NV,Wells,K9BB
+NV,Wildhorse Res/El,KAWH
+NV,Winnemucca,KWMC
+NY,Albany,KALB
+NY,Batavia,KGVQ
+NY,Binghamton,KBGM
+NY,Brookhaven,KHWV
+NY,Buffalo/Cheektow,KBUF
+NY,Canandaigua,KD38
+NY,Cortland,KN03
+NY,Dansville,KDSV
+NY,Dunkirk,KDKK
+NY,East Hampton,KHTO
+NY,Elmira,KELM
+NY,Endicott/Tri-Cit,KCZG
+NY,Farmingdale,KFRG
+NY,Fort Drum/Wheele,KGTB
+NY,Fulton,KFZY
+NY,Glens Falls,KGFL
+NY,Hamilton Municip,KVGC
+NY,Hornell,K4G6
+NY,Hudson/Columbia,K1B1
+NY,Islip,KISP
+NY,Ithaca/Tompkins,KITH
+NY,Jamestown,KJHW
+NY,Johnstown,KNY0
+NY,Manhattan/Dwntwn,KJRB
+NY,Massena,KMSS
+NY,Montauk,KMTP
+NY,Montgomery,KMGJ
+NY,Monticello,KMSV
+NY,Newburgh/Stewart,KSWF
+NY,Niagara Falls,KIAG
+NY,Norwich,KOIC
+NY,Nyc/Central Park,KNYC
+NY,Nyc/Jfk Arpt,KJFK
+NY,Nyc/La Guardia,KLGA
+NY,Ogdensburg Intl,KOGS
+NY,Olean,KOLE
+NY,Penn Yan,KPEO
+NY,Plattsburgh,KPLB
+NY,Plattsburgh Afb,KPBG
+NY,Potsdam,KPTD
+NY,Poughkeepsie,KPOU
+NY,Rochester,KROC
+NY,Rome/Griffiss Af,KRME
+NY,Saranac Lake,KSLK
+NY,Saratoga Springs,K5B2
+NY,Schenectady Airp,KSCH
+NY,Sidney,KN23
+NY,Skaneateles,K6B9
+NY,Syracuse,KSYR
+NY,Utica,KUCA
+NY,Watertown,KART
+NY,Wellsville,KELZ
+NY,Westhampton Beac,KFOK
+NY,White Plains,KHPN
+NY,Williamson/Sodus,KSDC
+OH,Akron,KCAK
+OH,Akron (Fulton),KAKR
+OH,Ashtabula,KHZY
+OH,Athens,KUNI
+OH,Batavia,KI69
+OH,Bellefontaine,KEDJ
+OH,Cambridge,KCDI
+OH,Chillicothe,KRZT
+OH,Cincinnat/Lunken,KLUK
+OH,Circleville,KCYO
+OH,Cleveland,KBKL
+OH,Cleveland,KCLE
+OH,Clevlnd/Cuyahoga,KCGF
+OH,Columbus,KCMH
+OH,Columbus/Bolton,KTZR
+OH,Columbus/St Univ,KOSU
+OH,Dayton,KDAY
+OH,Dayton,KMGY
+OH,Defiance,KDFI
+OH,Delaware,KDLZ
+OH,Findlay,KFDY
+OH,Flag City,KFBC
+OH,Hamilton,KHAO
+OH,Harrison,KI67
+OH,Jackson,KI43
+OH,Lancaster,KLHQ
+OH,Lebanon,KI68
+OH,Lima,KAOH
+OH,London,KUYF
+OH,Lorain/Elyria,KLPR
+OH,Mansfield,KMFD
+OH,Marion,KMNN
+OH,Marysville,KMRT
+OH,Middletown/Hook,KMWO
+OH,Mt Vernon/Knox,K4I3
+OH,New Philadelphia,KPHD
+OH,Newark,KVTA
+OH,Ottawa,KOWX
+OH,Oxford,KOXD
+OH,Port Clinton,KPCW
+OH,Portsmouth,KPMH
+OH,Ravena/Portage,KPOV
+OH,Rickenbacker Ang,KLCK
+OH,Springfield Muni,KSGH
+OH,Toledo,KTDZ
+OH,Toledo,KTOL
+OH,Urbana,KI74
+OH,Van Wert County,KVNW
+OH,Versailles,KVES
+OH,Wapakoneta,KAXV
+OH,Washington Court,KI23
+OH,Wauseon,KUSE
+OH,Willoughby,KLNN
+OH,Wilmington,KILN
+OH,Wooster,KBJJ
+OH,Wright Patterson,KFFO
+OH,Xenia,KI19
+OH,Youngstown,KYNG
+OH,Zanesville,KZZV
+OK,Ada,KADH
+OK,Altus Afb,KLTS
+OK,Altus/Quartz Mtn,KAXS
+OK,Alva,KAVK
+OK,Ardmore,KADM
+OK,Ardmore/Exec,K1F0
+OK,Atoka,KAQR
+OK,Bartlesville,KBVO
+OK,Blackwell,KBKN
+OK,Chandler,KCQB
+OK,Chickasha,KCHK
+OK,Claremore,KGCM
+OK,Clinton,KCLK
+OK,Clinton,KCSM
+OK,Cushing,KCUH
+OK,Duncan,KDUC
+OK,Durant,KDUA
+OK,El Reno Muni,KRQO
+OK,Elk City,KELK
+OK,Enid/Vance Afb,KEND
+OK,Enid/Woodring,KWDG
+OK,Fort Sill,KFSI
+OK,Frederick/Altus,KFDR
+OK,Gage,KGAG
+OK,Grove,KGMJ
+OK,Guthrie,KGOK
+OK,Guymon,KGUY
+OK,Hobart,KHBR
+OK,Hugo,KHHW
+OK,Idabel,K4O4
+OK,Lawton,KLAW
+OK,Lexington,KHMY
+OK,Mcalester,KMLC
+OK,Miami,KMIO
+OK,Muskogee,KMKO
+OK,Norman/Westheime,KOUN
+OK,Okla City/Page,KRCE
+OK,Okla City/Sundan,KHSD
+OK,Okla City/Wiley,KPWA
+OK,Oklahoma City,KOKC
+OK,Okmulgee,KOKM
+OK,Pauls Valley,KPVJ
+OK,Ponca City,KPNC
+OK,Poteau (R Kerr),KRKR
+OK,Pryor,KH71
+OK,Sallisaw,KJSV
+OK,Sand Springs,KOWP
+OK,Seminole,KSRE
+OK,Shawnee,KSNL
+OK,Stigler,KGZL
+OK,Stillwater,KSWO
+OK,Tahlequah,KTQH
+OK,Tinker Afb,KTIK
+OK,Tulsa,KRVS
+OK,Tulsa,KTUL
+OK,Watonga,KJWG
+OK,Weatherford,KOJA
+OK,Woodward,KWWR
+OR,Astoria,KAST
+OR,Aurora,KUAO
+OR,Baker,KBKE
+OR,Bend,KBDN
+OR,Brookings,KBOK
+OR,Burns,KBNO
+OR,Cape Blanco (Cgs,K92S
+OR,Cascade Locks St,KCZK
+OR,Clatsop Spit,K3CL
+OR,Corvallis Muni A,KCVO
+OR,Creswell,K77S
+OR,Eugene,KEUG
+OR,Florence Muni,K6S2
+OR,Gold Beach,K4S1
+OR,Grants Pass,K3S8
+OR,Hermiston,KHRI
+OR,Hillsboro/Portld,KHIO
+OR,Hood River,K4S2
+OR,John Day State,KGCD
+OR,Joseph,KJSY
+OR,Klamath Falls,KLMT
+OR,La Grande,KLGD
+OR,Lakeview,KLKV
+OR,Madras,KS33
+OR,Mcminnville,KMMV
+OR,Meacham,KMEH
+OR,Medford,KMFR
+OR,Newport,KJNW
+OR,Newport,KONP
+OR,North Bend,KOTH
+OR,Ontario,KONO
+OR,Pendleton,KPDT
+OR,Portland,KPDX
+OR,Prineville,KS39
+OR,Redmond,KRDM
+OR,Rome,KP88
+OR,Rome,KREO
+OR,Rooster Rock,KRRK
+OR,Roseburg,KRBG
+OR,Salem,KSLE
+OR,Scappoose,KSPB
+OR,Sea Lion Caves,K2SL
+OR,Sexton Summit,KSXT
+OR,Sunriver,KS21
+OR,The Dalles,KDLS
+OR,Tillamook,KTMK
+OR,Troutdale,KTTD
+PA,Allentown,KABE
+PA,Allentown Queen,KXLL
+PA,Altoona,KAOO
+PA,Avoca/Wilkes B.,KAVP
+PA,Beaver Falls Arp,KBVI
+PA,Bedford,KHMZ
+PA,Bradford,KBFD
+PA,Butler Co.,KBTP
+PA,Clearfield,KFIG
+PA,Coatesville,KMQS
+PA,Doylestown,KDYL
+PA,Du Bois,KDUJ
+PA,Erie,KERI
+PA,Fountain Dale,KRYT
+PA,Franklin,KFKL
+PA,Grove City,K29D
+PA,Harrisburg,KCXY
+PA,Hazleton,KHZL
+PA,Indiana/Stewart,KIDI
+PA,Johnstown,KJST
+PA,Lancaster,KLNS
+PA,Latrobe/Westmorl,KLBE
+PA,Lehighton,K22N
+PA,Lock Haven,KLHV
+PA,Meadville,KGKJ
+PA,Middletown,KMDT
+PA,Mt. Pocono,KMPO
+PA,Muir Aaf/Indiant,KMUI
+PA,New Castle Muni,KUCP
+PA,Perkasie,KCKZ
+PA,Philadelphia,KPHL
+PA,Philadelphia/Ne,KPNE
+PA,Philipsburg/Mid,KPSB
+PA,Philly Wings F,KLOM
+PA,Pittsburgh,KPIT
+PA,Pittsburgh/Alleg,KAGC
+PA,Pottstown,KPTW
+PA,Quakertown Arp,KUKT
+PA,Reading,KRDG
+PA,Reedsville,KRVL
+PA,Selinsgrove,KSEG
+PA,Somerset,K2G9
+PA,St Marys,KOYM
+PA,State College,KUNV
+PA,Towanda,KN27
+PA,Washington,KAFJ
+PA,Wellsboro/Grand,KN38
+PA,West Chester,KOQN
+PA,Williamsport,KIPT
+PA,York,KTHV
+PA,Zelienople,KPJC
+RI,Block Island,KBID
+RI,N. Kingston/Quon,KOQU
+RI,Newport,KUUU
+RI,Pawtucket,KSFZ
+RI,Providence/Green,KPVD
+RI,Westerly,KWST
+SC,Aiken,KAIK
+SC,Allendale Cnty,KAQX
+SC,Anderson,KAND
+SC,Barnwell,KBNL
+SC,Beaufort Cnty,KARW
+SC,Beaufort Mcas,KNBC
+SC,Berkeley Moncks,KMKS
+SC,Camden Woodward,KCDN
+SC,Charleston,KCHS
+SC,Charleston/Exec,KJZI
+SC,Cheraw,KCQW
+SC,Chester Catawba,KDCM
+SC,Clemson,KCEU
+SC,Columbia,KCAE
+SC,Columbia-Owens,KCUB
+SC,Conway-Horry Cty,KHYW
+SC,Darlington Cnty,KUDG
+SC,Florence,KFLO
+SC,Georgetown,KGGE
+SC,Greenville,KGMU
+SC,Greenville,KGYH
+SC,Greenwood,KGRD
+SC,Greer/Spartansbg,KGSP
+SC,Hartsville,KHVS
+SC,Hilton Head,KHXD
+SC,Kingstree,KCKI
+SC,Lancaster,KLKR
+SC,Laurens,KLUX
+SC,Manning,KMNI
+SC,Marion,KMAO
+SC,Marlboro Cnty,KBBP
+SC,Mcentire Ang Bas,KMMT
+SC,Mount Pleasant,KLRO
+SC,Myrtle Beach,KMYR
+SC,Newberry,KEOE
+SC,North Aux,KXNO
+SC,North Myrtle Bea,KCRE
+SC,Orangeburg,KOGB
+SC,Pickens,KLQK
+SC,Rock Hill,KUZA
+SC,Shaw Afb/Sumter,KSSC
+SC,Spartanburg,KSPA
+SC,Summerville,KDYB
+SC,Sumter,KSMS
+SC,Walterboro,KRBW
+SC,Winnsboro,KFDW
+SD,Aberdeen,KABR
+SD,Andover,KADR
+SD,Batesland Us18,KBAT
+SD,Belle Fourche,KBEL
+SD,Belle Fourche,KEFC
+SD,Belvidere,KBVD
+SD,Bison,K6V5
+SD,Brandt,KBRA
+SD,Britton,KBTN
+SD,Brookings,KBKX
+SD,Buffalo,K2WX
+SD,Cactus Flats,KCAC
+SD,Chamberlain,K9V9
+SD,Clark,K8D7
+SD,Custer,KCUT
+SD,Desmet,K6E5
+SD,Eagle Butte,K84D
+SD,Edgemont Us18,KED0
+SD,Ellsworth Afb,KRCA
+SD,Ellsworth I90,KEL0
+SD,Faith,KD07
+SD,Faulkton,K3FU
+SD,Frederick,KFED
+SD,Gettysburg,K0D8
+SD,Glad Vly Sd20,KGLV
+SD,Gregory,K9D1
+SD,Harrold,KHRD
+SD,Herried,KHER
+SD,Hot Springs,KHSR
+SD,Huron,KHON
+SD,Jct Sd44 Us385,KPAC
+SD,Kadoka,KKAD
+SD,Lemmon,KY22
+SD,Lemmon Us12,KLEM
+SD,Madison,KMDS
+SD,Martin,K9V6
+SD,Millbank,K1D1
+SD,Miller,KMKA
+SD,Mitchell,KMHE
+SD,Mobridge,KMBG
+SD,Onida,K98D
+SD,Parkston,K8V3
+SD,Philip,KPHP
+SD,Pierre,KPIR
+SD,Pine Ridge,KIEN
+SD,Platte,K1D3
+SD,Rapid City,KRAP
+SD,Rapid City/Wfo,KUNR
+SD,Reliance,KREL
+SD,Sd-Wy Bordr Us85,KNE0
+SD,Sheridan Lake Rd,KSL0
+SD,Sioux Falls,KFSD
+SD,Sisseton,K8D3
+SD,Spearfish/Clyde,KSPF
+SD,Sturgis,K49B
+SD,Summit,KSUM
+SD,Tea,KY14
+SD,Tolstoy,KTLS
+SD,Vermillion,KVMR
+SD,Victor,KVIC
+SD,Vivian,KVIV
+SD,Wagner,KAGZ
+SD,Wall,K6V4
+SD,Wasta I90,KWTA
+SD,Watertown,KATY
+SD,Webster,K1D7
+SD,Wessington Sprin,K4X4
+SD,Winner,KICR
+SD,Yankton,KYKN
+TN,Athens/Mcminn,KMMI
+TN,Bolivar/Whitehst,KM08
+TN,Bristol,KTRI
+TN,Chattanooga,KCHA
+TN,Clarksville,KCKV
+TN,Cleveland Reg.,KRZR
+TN,Collegedale,K3M3
+TN,Columbia,KMRC
+TN,Covington,KM04
+TN,Crossville,KCSV
+TN,Dayton,K2A0
+TN,Dewitt Spain/Mem,KM01
+TN,Dickson,KM02
+TN,Dyersburg,KDYR
+TN,Elizabethton,K0A9
+TN,Fayetteville,KFYM
+TN,Franklin Wilkins,KM52
+TN,Gallatin,KM33
+TN,Gallatin,KXNX
+TN,Gatlinburg,KGKT
+TN,Greeneville,KGCY
+TN,Huntingdon,KHZD
+TN,Jacksboro,KJAU
+TN,Jackson,KMKL
+TN,Knoxville,KTYS
+TN,Knoxville Downto,KDKX
+TN,Lawrenceburg,K2M2
+TN,Lebanon,KM54
+TN,Lewisburg,KLUG
+TN,Lexington,KPVE
+TN,Livingston,K8A3
+TN,Madisonville,KMNV
+TN,Mcminnville,KRNC
+TN,Memphis,KMEM
+TN,Millington,K2M8
+TN,Millington/88D,KNQA
+TN,Morristown,KMOR
+TN,Murfreesboro,KMBT
+TN,Nashv/Jc Tune,KJWN
+TN,Nashville,KBNA
+TN,Oak Ridge,KOQT
+TN,Oneida,KSCX
+TN,Paris Henry Cty,KPHT
+TN,Portland,K1M5
+TN,Pulaski,KGZS
+TN,Rockwood,KRKW
+TN,Savannah Hardin,KSNH
+TN,Shelbyville,KSYI
+TN,Smyrna,KMQY
+TN,Somerville,KFYE
+TN,Sparta,KSRB
+TN,Spingfield,KM91
+TN,Tullahoma,KTHA
+TN,Union City,KUCY
+TN,Winchester,KBGF
+TX,Abilene,KABI
+TX,Alaminos Canyon,KHHV
+TX,Alice,KALI
+TX,Alpine-Casparis,KE38
+TX,Amarillo,KAMA
+TX,Andrews,KE11
+TX,Angleton,KLBX
+TX,Arlington,KGKY
+TX,Athens,KF44
+TX,Austin,KAUS
+TX,Austin Exec,KEDC
+TX,Austin/Mabry,KATT
+TX,Bay City,KBYY
+TX,Beaumont,KBMT
+TX,Beaumont/Port Ar,KBPT
+TX,Beeville Muni,KBEA
+TX,Big Lake,KE41
+TX,Big Spring,KBPG
+TX,Bonham,KF00
+TX,Borger,KBGD
+TX,Bowie,K0F2
+TX,Brady,KBBD
+TX,Brazos 133B Oilp,KBBF
+TX,Brazos 451 Oilp,KBQX
+TX,Breckenridge,KBKD
+TX,Brenham,K11R
+TX,Bridgeport,KXBP
+TX,Brownsville,KBRO
+TX,Brownwood,KBWD
+TX,Bryan,KCFD
+TX,Burnet,KBMQ
+TX,C. Christi Nas,KNGP
+TX,Caldwell,KRWV
+TX,Cameron,KT35
+TX,Canadian,KHHF
+TX,Carrizo Springs,KCZT
+TX,Carthage,K4F2
+TX,Castroville Muni,KCVB
+TX,Center,KF17
+TX,Childress,KCDS
+TX,Cisco,KGZN
+TX,Clarksville,KLBR
+TX,Cleburne,KCPT
+TX,Cleveland Muni,K6R3
+TX,Coleman Muni,KCOM
+TX,College Station,KCLL
+TX,Columbus,K66R
+TX,Comanche,KMKN
+TX,Conroe,KCXO
+TX,Corpus Christi,KCRP
+TX,Corsicana,KCRS
+TX,Cotulla,KCOT
+TX,Crockett,KDKR
+TX,Dalhart,KDHT
+TX,Dallas Nas/Hensl,KNBE
+TX,Dallas/Addison,KADS
+TX,Dallas/Ft Worth,KDFW
+TX,Dallas/Love Fld,KDAL
+TX,Dallas/Redbird,KRBD
+TX,Decatur,KLUD
+TX,Del Rio,KDRT
+TX,Denton,KDTO
+TX,Dimmit,KFTN
+TX,Dryden,K6R6
+TX,Dumas/Moore Cty,KDUX
+TX,Dyess Afb/Abilen,KDYS
+TX,E Breaks 165,KEMK
+TX,E Breaks Boomvng,KVAF
+TX,Eagle Lake,KELA
+TX,Eastland,KETN
+TX,Edinburg Intl,KEBG
+TX,El Paso,KELP
+TX,Falfurrias,KBKS
+TX,Fort Bliss,KBIF
+TX,Fort Stockton,KFST
+TX,Fort Worth,KFTW
+TX,Fort Worth Nas,KNFW
+TX,Fort Worth/88D,KFWS
+TX,Fredericksburg,KT82
+TX,Ft Hood/Killeen,KHLR
+TX,Ft Worth/Allianc,KAFW
+TX,Gainesville,KGLE
+TX,Galveston,KGLS
+TX,Galveston424 Oil,KGVX
+TX,Gatesville,KGOP
+TX,Georgetown,KGTU
+TX,Giddings-Lee,KGYB
+TX,Gilmer Muni,KJXI
+TX,Gonzales Muni,KT20
+TX,Graham Muni,KRPH
+TX,Granbury Muni,KGDJ
+TX,Grand Prairie,KGPM
+TX,Gray/Ft Hood,KGRK
+TX,Greenville/Major,KGVT
+TX,Guadalupe Pass,KGDP
+TX,Gunnison 668,KGUL
+TX,H Island376 Oilp,KHQI
+TX,Hamilton Muni,KMNZ
+TX,Harlingen,KHRL
+TX,Hearne Muni,KLHB
+TX,Hebbronville,KHBV
+TX,Henderson Rusk C,KRFI
+TX,Hereford Muni,KHRX
+TX,Hillsboro,KINJ
+TX,Hondo,KHDO
+TX,Horseshoe Bay,KDZB
+TX,Houston,KLVJ
+TX,Houston Exec,KTME
+TX,Houston/Dw Hooks,KDWH
+TX,Houston/Ellingto,KEFD
+TX,Houston/Hobby,KHOU
+TX,Houston/Intnl,KIAH
+TX,Houston/Southwst,KAXH
+TX,Houston/Sugar La,KSGR
+TX,Houston/Univ,KMCJ
+TX,Huntsville,KUTS
+TX,Ingleside/Tp Mcc,KTFP
+TX,Jacksonville,KJSO
+TX,Jasper,KJAS
+TX,Junction,KJCT
+TX,Kelly Afb,KSKF
+TX,Kenedy,K2R9
+TX,Kerrville,KERV
+TX,Kickapoo,KCWC
+TX,Killeen Muni,KILE
+TX,Kingsville,KIKG
+TX,Kingsville Nas,KNQI
+TX,La Grange,K3T5
+TX,La Porte,KT41
+TX,Lago Vista,KRYW
+TX,Lamesa,K2F5
+TX,Lamesa,KLUV
+TX,Lampasas,KLZZ
+TX,Lancaster,KLNC
+TX,Laredo,KLRD
+TX,Laughlin Afb,KDLF
+TX,Laughlin Afb/Aux,KT70
+TX,Llano,KAQO
+TX,Longview,KGGG
+TX,Lubbock,KLBB
+TX,Lufkin,KLFK
+TX,Marfa,KMRF
+TX,Marshall,KASL
+TX,Maverick Cnty,K5T9
+TX,Mc Gregor,KPWG
+TX,Mcallen,KMFE
+TX,Mckinney,KTKI
+TX,Mcmullen Target,KNMT
+TX,Mesquite,KHQZ
+TX,Mexia Limestone,KLXY
+TX,Midland,KMAF
+TX,Midland Airpark,KMDD
+TX,Midlothian/Wax,KJWY
+TX,Mineola/Quitman,KJDD
+TX,Mineral Wells,KMWL
+TX,Mount Pleasant,KOSA
+TX,Mustang A85A Oil,KMZG
+TX,Mustang Is31 Oil,KMIU
+TX,N Padre 975,KOPM
+TX,Nacogdoches,KOCH
+TX,New Braunfels,KBAZ
+TX,Odessa,KODO
+TX,Orange,KORG
+TX,Orange Grove,KNOG
+TX,Ozona,KOZA
+TX,Palacios,KPSX
+TX,Palestine Muni,KPSN
+TX,Pampa,KPPA
+TX,Pampa M Vista R,KBPC
+TX,Paris/Cox Field,KPRX
+TX,Pecos City,KPEQ
+TX,Perryton,KPYX
+TX,Phillips Oil,K25T
+TX,Plainview,KPVW
+TX,Pleasanton Muni,KPEZ
+TX,Port Aransas,KRAS
+TX,Port Isabel,KPIL
+TX,Port Lavaca,KPKV
+TX,Presidio/Lely In,KPRS
+TX,Presidio/Lely In,KT77
+TX,Randolph Afb,KRND
+TX,Ranger,K6P9
+TX,Reese Afb/Lubboc,KREE
+TX,Robstown/Nueces,KRBO
+TX,Rockport,KRKP
+TX,Rocksprings,KECU
+TX,Rockwall,KF46
+TX,S Antonio/Stinsn,KSSF
+TX,S Antonio-Boerne,K5C1
+TX,Sabine Pass,KRPE
+TX,San Angelo,KSJT
+TX,San Antonio,KSAT
+TX,San Marcos,KHYI
+TX,San Marcos,KT98
+TX,Sanderson (Ramos,KP07
+TX,Seguin,KSEQ
+TX,Seminole,KGNC
+TX,Sherman/Denison,KGYI
+TX,Sinton,KT69
+TX,Snyder/Winston,KSNK
+TX,Sonora,KSOA
+TX,South Padre Is,KSPL
+TX,Stephenville,KSEP
+TX,Sulphur Springs,KSLR
+TX,Sweetwater,KSWW
+TX,Taylor,KT74
+TX,Temple/Miller,KTPL
+TX,Terrell,KTRL
+TX,Tyler,KTYR
+TX,Uvalde/Garner F,KUVA
+TX,Van Horn,KVHN
+TX,Vernon Wilbarger,KF05
+TX,Victoria,KVCT
+TX,W Cameron 368A,KCRH
+TX,Waco,KACT
+TX,Waco/Tsti,KCNW
+TX,Walker Ridge,KJSL
+TX,Weslaco Midvally,KT65
+TX,Weslaco Midvally,KTXW
+TX,West Houston,KIWS
+TX,Wharton,KARM
+TX,Wichita Fall,KSPS
+TX,Wink,KINK
+TX,Zapata,KAPY
+UT,Blanding,K4BL
+UT,Blanding,KBDG
+UT,Brigham City,KBMC
+UT,Bryce Canyon,KBCE
+UT,Cedar City,KCDC
+UT,Delta,KDTA
+UT,Delta,KU24
+UT,Dugway Prvg Grou,KDPG
+UT,Eagle Range,KU16
+UT,Green River Rang,KU28
+UT,Hanksville,K4HV
+UT,Hanksville,KHVE
+UT,Heber/Russ Mcdon,K36U
+UT,Heber/Russ Mcdon,KHCR
+UT,Hill Afb/Ogden,KHIF
+UT,Kanab,KKNB
+UT,Logan,KLGU
+UT,Manti-Ephraim,K41U
+UT,Milford,KMLF
+UT,Moab,KCNY
+UT,Ogden,KOGD
+UT,Panguitch,KU55
+UT,Price,KPUC
+UT,Provo Muni,KPVU
+UT,Roosevelt,K74V
+UT,Roosevelt,KU67
+UT,Saint George,KDXZ
+UT,Saint George,KSGU
+UT,Salt Lake City,KSLC
+UT,Salt Lake Muni,KU42
+UT,Tooele,KT62
+UT,Tooele,KTVY
+UT,Vernal,KVEL
+UT,Wendover (Aut),KENV
+VA,Abingdon,KVJI
+VA,Blacksburg/Va T.,KBCB
+VA,Blackstone/Fort,KBKT
+VA,Bridgewater,KVBW
+VA,Brookneal,K0V4
+VA,Bumpass,K7W4
+VA,Charlottesville,KCHO
+VA,Chase City,KCXE
+VA,Chesapeake,KCPK
+VA,Clarksville,KW63
+VA,Crewe,KW81
+VA,Culpeper,KCJR
+VA,Danville,KDAN
+VA,Dublin/New Riv,KPSK
+VA,Emporia,KEMV
+VA,Farmville,KFVX
+VA,Fentress Naval,KNFE
+VA,Fort Belvoir/Dav,KDAA
+VA,Franklin/J B Ros,KFKN
+VA,Fredericksb/Shan,KEZF
+VA,Front Royal,KFRR
+VA,Ft Eustis/Felker,KFAF
+VA,Gordonsville,KGVE
+VA,Hillsville/Galax,KHLX
+VA,Hot Springs/Inga,KHSP
+VA,Jonesville,K0VG
+VA,Kenbridge,KW31
+VA,Langley Afb/Hamp,KLFI
+VA,Lawrenceville,KLVL
+VA,Leesburg/Godfrey,KJYO
+VA,Louisa,KLKU
+VA,Luray,KLUA
+VA,Lynchburg,KLYH
+VA,Manassas Muni,KHEF
+VA,Marion / Wythevi,KMKJ
+VA,Martinsville,KMTV
+VA,Melfa/Accomack,KMFV
+VA,New Market,K8W2
+VA,Newport News,KPHF
+VA,Norfolk,KORF
+VA,Norfolk Nas/Cham,KNGU
+VA,Norfolk/Hampton,KPVG
+VA,Norfolk/Wakefld,KAKQ
+VA,Oceana Nas/Souce,KNTU
+VA,Orange,KOMH
+VA,Petersburg,KPTB
+VA,Quantico Mcaf,KNYG
+VA,Quinton,KW96
+VA,Richlands,KJFZ
+VA,Richmond,KRIC
+VA,Richmond/Chester,KFCI
+VA,Richmond/Hanover,KOFP
+VA,Roanoke,KROA
+VA,Saluda,KW75
+VA,South Boston,KW78
+VA,South Hill/Meckl,KAVC
+VA,Stafford Regnl,KRMN
+VA,Staunton/Shenand,KSHD
+VA,Suffolk,KSFQ
+VA,Tangier Island,KTGI
+VA,Tappahannock,KXSA
+VA,Wallops Island,KWAL
+VA,Warrenton,KHWY
+VA,Wash Dc/Dulles,KIAD
+VA,Waynesboro,KW13
+VA,West Point,KFYJ
+VA,Williamsburg,KJGG
+VA,Winchester Rgnl,KOKV
+VA,Wise/Lonesome Pi,KLNP
+VT,Bennington,KDDH
+VT,Burlington,KBTV
+VT,Highgate,KFSO
+VT,Lyndonville,KCDA
+VT,Middlebury,K6B0
+VT,Montpelier/Barre,KMPV
+VT,Morrisville,KMVL
+VT,Newport State,KEFK
+VT,Rutland State,KRUT
+VT,Springfield,KVSF
+VT,St. Johnsbury,K1V4
+WA,Arlington Muni,KAWO
+WA,Bellingham,KBLI
+WA,Bremerton Ntnl,KPWT
+WA,Burlington/Mt V,KBVS
+WA,Chehalis Central,KCLS
+WA,Colville Municip,KCQV
+WA,Deer Park,KDEW
+WA,Eastsound/Orcas,KORS
+WA,Ellensburg,KELN
+WA,Ephrata,KEPH
+WA,Everett,KPAE
+WA,Fairchild Afb,KSKA
+WA,Fort Lewis/Gray,KGRF
+WA,Friday Harbor,KFHR
+WA,Hanford,KHMS
+WA,Hoquiam,KHQM
+WA,Kelso Longveiw,KKLS
+WA,Methow Valley,KS52
+WA,Moses Lake,KMWH
+WA,Oak Harbor Airpa,KOKH
+WA,Olympia,KOLM
+WA,Omak,KOMK
+WA,Pasco,KPSC
+WA,Port Angeles,KCLM
+WA,Port Angeles Cga,KNOW
+WA,Port Townsend,K0S9
+WA,Pullman/Moscow,KPUW
+WA,Puyallup/Thun,KPLU
+WA,Quillayute,KUIL
+WA,Renton,KRNT
+WA,Richland,KRLD
+WA,Seattle/Boeing,KBFI
+WA,Seattle/Metro,KSEA
+WA,Shelton,KSHN
+WA,Spokane/Felts,KSFF
+WA,Spokane/Metro,KGEG
+WA,Stampede Pass,KSMP
+WA,Sunnyside,K1S5
+WA,Tacoma,KTIW
+WA,Tacoma/Mc Chord,KTCM
+WA,Toledo Winlock M,KTDO
+WA,Vancouver,KVUO
+WA,Walla Walla,KALW
+WA,Wenatchee,KEAT
+WA,Whidbey Is. Nas,KNUW
+WA,Yagabond Aaf,K1YT
+WA,Yakima,KYKM
+WA,Yakima Training,K1QW
+WI,Antigo/Langlade,KAIG
+WI,Appleton/Outagam,KATW
+WI,Ashland,KASX
+WI,Ashwaubenon,KGRB
+WI,Black River Fall,KBCK
+WI,Boscobel,KOVS
+WI,Burlington,KBUU
+WI,Chetek,KY23
+WI,Clintonville,KCLI
+WI,Cumberland,KUBE
+WI,Dells/Baraboo,KDLL
+WI,Eagle River,KEGV
+WI,East Troy,K57C
+WI,Eau Claire,KEAU
+WI,Ephraim,K3D2
+WI,Fond Du Lac,KFLD
+WI,Hayward,KHYR
+WI,Janesville/Rock,KJVL
+WI,Juneau,KUNU
+WI,Kenosha,KENW
+WI,La Crosse,KLSE
+WI,La Pointe,K4R5
+WI,Ladysmith/Rusk,KRCX
+WI,Land O Lakes,KLNL
+WI,Lone Rock,KLNR
+WI,Madison,KMSN
+WI,Manitowac Muni,KMTW
+WI,Manitowish Water,KD25
+WI,Marshfield,KMFI
+WI,Mauston,K82C
+WI,Medford,KMDZ
+WI,Menomonie Muni,KLUM
+WI,Merrill,KRRL
+WI,Middleton,KC29
+WI,Milwaukee,KMKE
+WI,Milwaukee/Lawren,KMWC
+WI,Mineral Point,KMRJ
+WI,Minocqua/Woodruf,KARV
+WI,Monroe,KEFT
+WI,Mosinee/Central,KCWA
+WI,New Richmond Mun,KRNH
+WI,Oconto,KOCQ
+WI,Osceola,KOEO
+WI,Oshkosh,KOSH
+WI,Phillips/Price,KPBH
+WI,Platteville,KPVB
+WI,Prairie Du Chien,KPDC
+WI,Racine,KRAC
+WI,Reedsburg,KC35
+WI,Rhinelander,KRHI
+WI,Rice Lake,KRPD
+WI,Shawano Muni,KEZS
+WI,Sheboygan,KSBM
+WI,Siren,KRZN
+WI,Solon Springs,KOLG
+WI,Sparta/Mccoy Aaf,KCMY
+WI,Stevens Point,KSTE
+WI,Sturgeon Bay,KSUE
+WI,Superior,KSUW
+WI,Tomahawk Regnl,KTKV
+WI,Viroqua Muni,KY51
+WI,Volk/Camp Dougla,KVOK
+WI,Washington Islan,K2P2
+WI,Watertown,KRYV
+WI,Waukesha Cnty,KUES
+WI,Waupaca,KPCZ
+WI,Wausau,KAUW
+WI,Wautoma,KY50
+WI,West Bend,KETB
+WI,Wisconsin Rapids,KISW
+WV,Beckley,KBKW
+WV,Bluefield,KBLF
+WV,Buckhannon,KW22
+WV,Charleston,KCRW
+WV,Clarksburg,KCKB
+WV,Elkins,KEKN
+WV,Huntington,KHTS
+WV,Lewisburg/Greenb,KLWB
+WV,Logan Cnty,K6L4
+WV,Martinsburg,KMRB
+WV,Morgantown,KMGW
+WV,Parkersburg,KPKB
+WV,Petersburg,KW99
+WV,Pineville,KI16
+WV,Pt Pleasant,K3I2
+WV,Sutton/Braxton,K48I
+WV,Wheeling,KHLG
+WV,White Sulphur Sp,KSSU
+WY,20 Mile Hill,KTMH
+WY,Afton,KAFO
+WY,Alpha,K1AW
+WY,Alpine,K46U
+WY,Arlington,KARL
+WY,Beaver Rim,KBVR
+WY,Belle Fourche,KBFU
+WY,Big Piney,KBPI
+WY,Bittercreek,KBIT
+WY,Bordeaux,KBRX
+WY,Boysen/Thermopol,KTBX
+WY,Buffalo,KBYG
+WY,Casper,KCPR
+WY,Cemetery Separa,KCMS
+WY,Cheyenne,KCYS
+WY,Chief Joseph,KCHJ
+WY,Cody,KCOD
+WY,Continental Div,KCTD
+WY,Cowley,KU68
+WY,Dead Horse,KDHS
+WY,Deer Creek,KDRC
+WY,Dixon,KDWX
+WY,Douglas,KDGW
+WY,Dubois Muni,KDUB
+WY,Elk Mountain,KEHY
+WY,Evanston,KEVW
+WY,First Divide,KFIR
+WY,Fort Bridger,KFBR
+WY,Gillette,KGCC
+WY,Greybull,KGEY
+WY,Guernsey,KGUR
+WY,Gunbarrel,KGUN
+WY,Hiland,KHLD
+WY,Hulett Muni,KW43
+WY,I-25 Divide,KIDV
+WY,Inyan Kara,KIKA
+WY,Jackson,KJAC
+WY,Kemmerer,KEMM
+WY,Lander,KLND
+WY,Laramie,KLAR
+WY,Lava Mountain,KAJL
+WY,Lusk,KLSK
+WY,Mammoth/Yellowst,KMMM
+WY,Meeteetse Rim,KMTR
+WY,Newcastle Mondel,KECS
+WY,Pathfinder Hill,KPAT
+WY,Pine Bluffs Muni,K82V
+WY,Pinedale R Wenz,KPNA
+WY,Piney Creek,KPIN
+WY,Powell,KPOY
+WY,Pumpkin Vine,KPUM
+WY,Rawlins Municipa,KRWL
+WY,Rim / Pinedale,KRIM
+WY,Riverton,KRIW
+WY,Rock Springs,KRKS
+WY,Sage / Junction,KSGE
+WY,Saratoga,KSAA
+WY,Sheridan,KSHR
+WY,Shute Creek,KSHC
+WY,Sibley Peak,KSIB
+WY,Skyline,KSKL
+WY,South Pass,KFWZ
+WY,Ten Sleep,KJPD
+WY,Thermopolis,KHSG
+WY,Torrington,KTOR
+WY,Tower Falls,KTOW
+WY,Vedauwoo,KVDW
+WY,Warren Air Base,KFEW
+WY,Wheatland,KEAN
+WY,Whitaker,KWTR
+WY,Worland,KWRL
+WY,Yellowstone Lake,KP60
