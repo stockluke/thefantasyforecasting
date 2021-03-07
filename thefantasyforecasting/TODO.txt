@@ -20,7 +20,7 @@
 -Fix Navbar dropdown
 -Add recaptcha to registration
 -Custom landing page
-
+-Add polls to be listed in announcements
 
 ------------------------------------------------
                 DESIRED FEATURES

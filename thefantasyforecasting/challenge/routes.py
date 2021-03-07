@@ -22,8 +22,3 @@ def forecast():
 @challenge.route('/challenge/history')
 def history():
     return render_template('history.html', global_dict=global_dict, title='History')
-
-
-@challenge.route('/challenge/leaderboard')
-def leaderboard():
-    return render_template('leaderboard.html', global_dict=global_dict, title='Leaderboard')

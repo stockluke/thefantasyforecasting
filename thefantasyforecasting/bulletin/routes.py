@@ -15,15 +15,9 @@ def announcements_new():
     return render_template('announcements_new.html', global_dict=global_dict, title='New Announcement')
 
 
-@bulletin.route('/polls')
-def polls():
-    return render_template('polls.html', global_dict=global_dict, title='Polls')
-
-
-# Need to add roll_required('Admin')
-@bulletin.route('/polls/new')
-def polls_new():
-    return render_template('polls_new.html', global_dict=global_dict, title='New Poll')
+@bulletin.route('/leaderboard')
+def leaderboard():
+    return render_template('leaderboard.html', global_dict=global_dict, title='Leaderboard')
 
 
 @bulletin.route('/trophies')
