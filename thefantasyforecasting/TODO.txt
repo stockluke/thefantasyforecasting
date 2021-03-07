@@ -1,0 +1,32 @@
+------------------------------------------------
+                IMMEDIATE ITEMS
+------------------------------------------------
+-Create simple text pages for
+    -terms.html
+    -everything undo "Info"
+
+-Account settings page and functionality
+    -Account deletion
+
+-Allow post creation Announcements
+    -extend to Polls
+
+------------------------------------------------
+                  LATER ITEMS
+------------------------------------------------
+-Fix footer_bar overlap
+-Have custom view for flask-admin pages
+-Fix Form designs (register, login, etc)
+-Fix Navbar dropdown
+-Add recaptcha to registration
+-Custom landing page
+
+
+------------------------------------------------
+                DESIRED FEATURES
+------------------------------------------------
+-Migrate to live server
+
+-Add facebook, google, etc sign in options
+-Advertisement revenue
+-Tournament style competition

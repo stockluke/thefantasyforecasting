@@ -5,16 +5,8 @@ from flask_bcrypt import Bcrypt
 from flask_login import LoginManager
 from flask_sqlalchemy import SQLAlchemy
 from flask_mail import Mail
-from .config import Config
-
-
-bcrypt = Bcrypt()
-mail = Mail()
-db = SQLAlchemy()
-login_manager = LoginManager()
-login_manager.login_view = 'account.login'
-login_manager.login_message = 'info'
-admin = Admin()
+from thefantasyforecasting.config import Config
+import yaml
 
 
 def create_app(config_class=Config):
@@ -50,3 +42,20 @@ def create_app(config_class=Config):
     admin.add_view(ModelView(Location, db.session))
 
     return app
+
+
+def read_yaml(filename):
+    with open(filename) as f:
+        data = yaml.load(f, Loader=yaml.FullLoader)
+        return data
+    return None
+
+
+bcrypt = Bcrypt()
+mail = Mail()
+db = SQLAlchemy()
+login_manager = LoginManager()
+login_manager.login_view = 'account.login'
+login_manager.login_message = 'info'
+admin = Admin()
+global_dict = read_yaml('thefantasyforecasting/static/global.yaml')

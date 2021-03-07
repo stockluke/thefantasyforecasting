@@ -3,9 +3,9 @@
         <a href="#">Back to top</a>
     </p>
     <p>
-        © 2021 The Fantasy Forecasting ·
-        <a href="#">Privacy</a>
+        © 2021 {{ global_dict.website_name }} ·
+        <a href="{{ url_for('extra.privacy') }}">Privacy</a>
          ·
-        <a href="#">Terms</a>
+        <a href="{{ url_for('extra.terms') }}">Terms</a>
     </p>
 </footer>

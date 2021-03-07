@@ -1,5 +1,6 @@
 import datetime
 from flask import Blueprint, render_template
+from thefantasyforecasting import global_dict
 
 challenge = Blueprint('challenge', __name__, template_folder='templates')
 
@@ -8,21 +9,21 @@ challenge = Blueprint('challenge', __name__, template_folder='templates')
 @challenge.route('/challenge/forecast/new')
 def forecast_new():
     date = datetime.date.today()
-    return render_template('forecast_new.html', title='New Forecast')
+    return render_template('forecast_new.html', global_dict=global_dict, title='New Forecast')
 
 
 # For looking at an individual forecast
 @challenge.route('/challenge/forecast/<int:forecast_id>')
 def forecast():
-    return render_template('forecast.html', title='Forecast')
+    return render_template('forecast.html', global_dict=global_dict, title='Forecast')
 
 
 # For listing past forecasts
 @challenge.route('/challenge/history')
 def history():
-    return render_template('history.html', title='History')
+    return render_template('history.html', global_dict=global_dict, title='History')
 
 
 @challenge.route('/challenge/leaderboard')
 def leaderboard():
-    return render_template('leaderboard.html', title='Leaderboard')
+    return render_template('leaderboard.html', global_dict=global_dict, title='Leaderboard')

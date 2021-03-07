@@ -8,4 +8,4 @@ class AnnouncementForm(FlaskForm):
     content = TextAreaField('Content', validators=[DataRequired()])
     submit = SubmitField('Post')
 
-# TODO poll form
+

@@ -1,6 +1,6 @@
 from flask import Blueprint, render_template, url_for, redirect, request, flash
 from flask_login import login_required, current_user, login_user, logout_user
-from thefantasyforecasting import bcrypt, db
+from thefantasyforecasting import bcrypt, db, global_dict
 from thefantasyforecasting.models import User
 from thefantasyforecasting.account.forms import RegistrationForm, LoginForm
 
@@ -10,7 +10,7 @@ account = Blueprint('account', __name__, template_folder='templates')
 @account.route('/settings', methods=['GET', 'POST'])
 @login_required
 def settings():
-    return render_template('settings.html', title='Settings')
+    return render_template('settings.html', global_dict=global_dict, title='Settings')
 
 
 @account.route('/register', methods=['GET', 'POST'])
@@ -28,7 +28,7 @@ def register():
         db.session.add(user)
         db.session.commit()
         return redirect(url_for('main.home'))
-    return render_template('register.html', title='Register', form=form, remove_header=True)
+    return render_template('register.html', global_dict=global_dict, title='Register', form=form, remove_header=True)
 
 
 @account.route('/login', methods=['GET', 'POST'])
@@ -49,7 +49,7 @@ def login():
                     return redirect(url_for('main.home'))
         else:
             flash('Login Unsuccessful.', 'danger')
-    return render_template('login.html', title='Login', form=form)
+    return render_template('login.html', global_dict=global_dict, title='Login', form=form)
 
 
 @account.route('/logout')
@@ -61,24 +61,24 @@ def logout():
 @account.route('/achievements')
 @account.route('/achievements/<string:username>')
 def achievements(username):
-    return render_template('achievements.html', title='Achievements')
+    return render_template('achievements.html', global_dict=global_dict, title='Achievements')
 
 
 @account.route('/messages')
 @login_required
 def messages():
-    return render_template('messages.html', title='Messages')
+    return render_template('messages.html', global_dict=global_dict, title='Messages')
 
 
 @account.route('/reset_request', methods=['GET', 'POST'])
 def reset_request():
     if current_user.is_authenticated:
         return redirect(url_for('main.home'))
-    return render_template('reset_request.html', title='Password Reset Request')
+    return render_template('reset_request.html', global_dict=global_dict, title='Password Reset Request')
 
 
 @account.route('/reset_password/<token>', methods=['GET', 'POST'])
 def reset_password(token):
     if current_user.is_authenticated:
         return redirect(url_for('main.home'))
-    return render_template('reset_request.html', title='Password Reset')
+    return render_template('reset_request.html', global_dict=global_dict, title='Password Reset')
