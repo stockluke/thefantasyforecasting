@@ -11,37 +11,51 @@
 
 {% block content %}
 
-<div class="form-wrapper">
+    <div class="form-wrapper">
 
-    <form method="POST" action="{{ url_for('account.login') }}">
-        {{ form.csrf_token }}
+        <form method="POST" action="{{ url_for('account.login') }}">
+            {{ form.csrf_token }}
 
-        <fieldset class="form-field">{{ form.email.label }}{{ form.email }}
-            {% if form.email.errors %}
-                <ul class="errors">
-                {% for error in form.username.errors %}
-                    <li class="error">
-                        <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
-                    </li>
-                {% endfor %}
-                </ul>
-            {% endif %}
-        </fieldset>
+            <fieldset class="form-field">{{ form.email.label }}{{ form.email }}
+                {% if form.email.errors %}
+                    <ul class="errors">
+                    {% for error in form.username.errors %}
+                        <li class="error">
+                            <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            </fieldset>
 
-        <fieldset class="form-field">{{ form.password.label }}{{ form.password }}
-            {% if form.password.errors %}
-                <ul class="errors">
-                {% for error in form.firstname.errors %}
-                    <li class="error">
-                        <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
-                    </li>
-                {% endfor %}
-                </ul>
-            {% endif %}
-        </fieldset>
+            <fieldset class="form-field">{{ form.password.label }}{{ form.password }}
+                {% if form.password.errors %}
+                    <ul class="errors">
+                    {% for error in form.firstname.errors %}
+                        <li class="error">
+                            <i class="fas fa-exclamation"></i> <span class="error-message">{{ error }}</span>
+                        </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            </fieldset>
+            <div class="form-check">
+                {{ form.remember(class="form-check-input") }}
+                {{ form.remember.label(class="form-check-label") }}
+            </div>
+            {{ form.submit(class="btn btn-outline-info") }}
+        </form>
+    </div>
 
-        {{ form.submit }}
+    <div class="">
+        <small class="text-muted">
+            Need An Account? <a class="" href="{{ url_for('account.register') }}">Sign Up</a>
+        </small>
+    </div>
 
-    </form>
-</div>
+    <div class="form-group">
+        <small class="text-muted ml-2">
+            <a href="{{ url_for('account.reset_request') }}">Forgot Password?</a>
+        </small>
+    </div>
 {% endblock content %}

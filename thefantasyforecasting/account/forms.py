@@ -1,6 +1,7 @@
 from flask_wtf import FlaskForm, RecaptchaField
 from wtforms import StringField, PasswordField, SubmitField, BooleanField
-from wtforms.validators import DataRequired, Length, Email, EqualTo
+from wtforms.validators import DataRequired, Length, Email, EqualTo, ValidationError
+from thefantasyforecasting.models import User
 
 
 class RegistrationForm(FlaskForm):
@@ -46,6 +47,16 @@ class RegistrationForm(FlaskForm):
     # recaptcha = RecaptchaField()
     submit = SubmitField('Register')
 
+    def validate_username(self, username):
+        user = User.query.filter_by(username=username.data).first()
+        if user:
+            raise ValidationError('That username is taken. Please choose a different username.')
+
+    def validate_email(self, email):
+        email = User.query.filter_by(email=email.data).first()
+        if email:
+            raise ValidationError('That email already has an account.')
+
 
 class LoginForm(FlaskForm):
     email = StringField('Email',
@@ -60,3 +71,15 @@ class LoginForm(FlaskForm):
                              ])
     remember = BooleanField('Remember Me')
     submit = SubmitField('Login')
+
+
+class RequestResetForm(FlaskForm):
+    email = StringField('Email', validators=[DataRequired(), Email()])
+    submit = SubmitField('Request Password Reset')
+
+
+class ResetPasswordForm(FlaskForm):
+    password = PasswordField('Password', validators=[DataRequired(), Length(min=6, max=20)])
+    confirm_password = PasswordField('Confirm Password',
+                                     validators=[DataRequired(), Length(min=6, max=20), EqualTo('password')])
+    submit = SubmitField('Reset Password')

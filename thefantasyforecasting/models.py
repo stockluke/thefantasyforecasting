@@ -3,6 +3,8 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.schema import FetchedValue
 from flask_login import UserMixin
 from thefantasyforecasting import db, login_manager
+from itsdangerous import TimedJSONWebSignatureSerializer as TimedSignature
+from flask import current_app
 
 
 @login_manager.user_loader
@@ -73,6 +75,20 @@ class User(db.Model, UserMixin):
 
     def get_id(self):
         return self.id_user
+
+    def get_reset_token(self, expires_sec=1800):
+        ts = TimedSignature(current_app.config['SECRET_KEY'], expires_sec)
+        return ts.dumps({'user_id': self.id_user}).decode('utf-8')
+
+    @staticmethod
+    def verify_reset_token(token):
+        ts = TimedSignature(current_app.config['SECRET_KEY'])
+        try:
+            user_id = ts.loads(token)['user_id']
+        except Exception as e:
+            print(e)
+            return None
+        return User.query.get(user_id)
 
 
 class Location(db.Model):
