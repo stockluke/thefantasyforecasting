@@ -1,5 +1,33 @@
 {% extends "layout.html" %}
 
 {% block content %}
-    <p>Paragraph text for {{ title }}</p>
+    {% for post in posts.items %}
+        <article class="media content-section">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <a class="mr-2" href="#">{{ post.username }}</a>
+                    <small class="text-muted">{{ post.date_posted.strftime('%H:%M %A, %m %b, %Y') }}</small>
+                </div>
+                <h2><a class="article-title" href="{{ url_for('bulletin.post', post_id=post.id_post) }}">{{ post.title }}</a></h2>
+                <p class="article-content">{{ post.content }}</p>
+            </div>
+        </article>
+    {% endfor %}
+    {% if posts.prev_num or posts.next_num %}
+        {% for page_num in posts.iter_pages(left_edge=1, right_edge=1, left_current=2, right_current=3) %}
+            <p>{{ posts.next_num }}</p>
+            <p>{{ posts.prev_num }}</p>
+            <p>{{ posts.prev_num and posts.next_num }}</p>
+
+            {% if page_num %}
+                {% if posts.page == page_num %}
+                    <a class="btn btn-info mb-4" href="{{ url_for('main.home', page=page_num) }}">{{ page_num }}</a>
+                {% else %}
+                    <a class="btn btn-outline-info mb-4" href="{{ url_for('main.home', page=page_num) }}">{{ page_num }}</a>
+                {% endif %}
+            {% else %}
+                ...
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 {% endblock content %}

@@ -33,13 +33,15 @@ def create_app(config_class=Config):
     app.register_blueprint(extra)
     app.register_blueprint(main)
 
-    from thefantasyforecasting.models import User, ForecastEntry, ForecastPeriod, Post, Location
+    from thefantasyforecasting.models import User, ForecastEntry, ForecastPeriod, Post, Location, Role, PostCategory
 
     admin.add_view(ModelView(User, db.session))
     admin.add_view(ModelView(ForecastEntry, db.session))
     admin.add_view(ModelView(ForecastPeriod, db.session))
     admin.add_view(ModelView(Post, db.session))
     admin.add_view(ModelView(Location, db.session))
+    admin.add_view(ModelView(Role, db.session))
+    admin.add_view(ModelView(PostCategory, db.session))
 
     return app
 

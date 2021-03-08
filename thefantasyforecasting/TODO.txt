@@ -21,6 +21,7 @@
 -Add recaptcha to registration
 -Custom landing page
 -Add polls to be listed in announcements
+-Add timezone to users
 
 ------------------------------------------------
                 DESIRED FEATURES
